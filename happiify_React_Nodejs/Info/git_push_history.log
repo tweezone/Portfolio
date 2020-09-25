@@ -1,0 +1,162 @@
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190104-0
+    Date: 2019/01/04
+    Time: 16:51
+    Version: 0.0.2
+    Subject：Fix the error: 'PROTOCOL_CONNECTION_LOST'
+    Push Content:
+        1. Fixed the bug in server. Add handleDisconnect-service.js module;
+        2. Capture the 50th frame of vedios as a cover image.
+        3. Set the version to 0.0.3
+    Version: 0.0.3
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190107-0
+    Date: 2019/01/07
+    Time: 15:30
+    Version: 0.0.3
+    Subject：Fix the error: 'PROTOCOL_CONNECTION_LOST'
+    Push Content：
+        1. In order to not only fix the db connection lost but also improve code stability, 
+        chosse pooling connections from Module mysql:
+            - Delete Func:connectToMySQL() in data-services.js;
+            - Using pool.query() as a shortcut for the pool.getConnection() -> connection.query() -> connection.release() code flow. 
+            - Delete function call data.connectToMySQL() in server.js;
+        2. Set the version to 0.0.4:
+            - Set the version info into Header component.
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190108-0
+    Date: 2019/01/07
+    Time: 14:00
+    Version: 0.0.4
+    Subject：Add email log and "currency" in Event mangement
+    Push Content：
+        1. Modify the file:logs/configure/log4js.json::
+            - Change the content of "appenders-email";
+            - Let logs go into monitor[date].log and send email to wang.ruihai.toronto@gmail.com every 12 hours.
+        2. Add "currency" into components:AddEvent & UpdateEvent:
+            - Modify the UI.
+            - Add new state: currency & allCurrencies;
+            - At back end:
+                (1) Modify the func "getAllEvents()", add an item "e.currencies_id";
+                (2) Modify the func "insertEvent()", add an item "data.currency";
+                (3) Modify the func "getAllEvents()",add an item ""currencies_id = '" + data.currency + "'," +";
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190108-1
+    Date: 2019/01/08
+    Time: 16:00
+    Version: 0.0.4
+    Subject：Add "currency" in Lesson mangement
+    Push Content
+        1. Add "currency" into components:AddLesson & UpdateLesson:
+            - At front end:
+                (1) Modify the UI in two components.
+                (2) Add new state: currency & allCurrencies;
+                (3) In component EventManagement, add a column with the name: currency.
+
+            - NOTE: In AddLesson/componontDidMount(), don't need to nest axios, but in UpdateLesson/componontDidMount(), 
+                    have to nest axios, because axios is an async function, cannot confirm which one will get results first.
+            - At back end:
+                (1) Modify the func "getAllLessons()", add an item "l.currencies_id, b.title AS 'currencies_name'";
+                (2) Modify the func "insertLesson()", add an item "data.currency";
+                (3) Modify the func "getAllLessons()",add an item ""currencies_id = '" + data.currency + "'," +";
+        2. Add "currency" column into the table EventManagement:
+            - At front end:
+                (1) In component EventManagement, add a column with the name: currency.
+            - At back end:
+                (1) Modify the func "getAllEvents()", add an item "b.title";
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190109-0
+    Date: 2019/01/09
+    Time: 16:50
+    Version: 0.0.4
+    Subject：Fix the bug - multer can't create a folder to save the cover image.
+    Push Content
+        1. Modify multer in Server/server-Line27-30.
+            - Add a new plugin - "fs-extra" for creating directory, just in case if it doesn't exists.
+            - Change the content of property - "destination", select function style. The advantage to use a function is 
+              when start the server, a folder isn't created, just when call "upload" variable, callback function in 
+              "destination" executes to create a folder if it dosen't exist.
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190110-0
+    Date: 2019/01/10
+    Pushing Time: 17:05
+    Version: 0.0.4
+    Subject：
+    Push Content:
+        1. Fixed a bug: The info got from DB is lack of timeliness in AddDoctor Component.
+            - Move two functions (get-user & get doctor) from componentDidMount() to handleClick()
+            - Nest these two functions and implement options in then() function;
+            - Delete two state: allUsers & allDoctors
+            - Add a constraint condition: real_name cannot be empty.
+        2. Modify NotFound Component to increase compatibility of display. 
+        3. Modify Adduser & UpdateUser components：
+            Front End:
+            - Make birthday & constellation separate.
+            - Make constellation list.
+            - Don't calculate the value of constellation.
+            - Add a state named constellation to store constellation_id.
+            Back End:
+            - Modify variable "constellation" in two functions: insertUser() & updateUser();
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190111-0
+    Date: 2019/01/11
+    Pushing Time: 15:30
+    Version: 0.0.5
+    Subject：
+    Push Content:
+        1. Fixed the problems from LogIn page:
+            - Before log in, when enter username & password, user logo show in Header-bar;
+            - Before log in, username & password which were saved or input wrong show in the URL bar;
+            - Add a prompt. When the connection lost between server and DB, prompt: The system is busy.
+        2. Fixed the problems from Header component:
+            - After log in, get the user infomation from DB;
+            - Only catch the "portrait" value;
+            - All above avoid infomation leakage.
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190119-0
+    Date: 2019/01/19
+    Pushing Time: 15:00
+    Version: 0.0.6
+    Subject：
+    Push Content:
+        1. Fix a security issue: When logging in, the password can be got using Chrome/react tool. Now use uncontorlled 
+           component to get password.
+        2. Eliminate all warning message on web cnsole which are related to "href='#'".
+        3. In Health Management - UpdateDoctor component, now the real name of a doctor can be changed.
+        4. In AddLesson, add a prompt "The files are attached." for uploading sections of a lesson.
+        5. Complete AddProduct & UpdateProduct components. 
+        6. Modify the Search Component's the height of input tag.
+        7. Set the version number to 0.0.6.
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190125-0
+    Date: 2019/01/25
+    Pushing Time: 13:30
+    Version: 0.0.7
+    Subject：
+    Push Content:
+        1. Fixed the widths problems of category and attribute select input element in AddProduct component.
+        2. Fixed the problem that the seach component and option button(s) are not in the same line when using mobile browser.
+        3. Add validations for AddEvent & UpdateEvent.
+        4. Make an independent component for selecting city. It's called SelectLocation.js. 
+        5. Replace the UI of selecting city in AddEvent & UpdateEvent.
+        6. Replace the UI of selecting city in AddDoctor & UpdateDoctor.
+        7. Implement Location Management in front end & back end. 
+        8. Fixed the bug because using the wrong charset. Now using UTFMB4 in config.db.js & mySQL server.
+        9. Set the version number - 0.0.7
+        10. Implement Web time out functionality, when there is no action after 10 minute, system log out. (Cancel it!!!)
+        11. Deal with the special character sent from front end for mySQL using it correctly.
+//---------------------------------------------------------------------------------------------------------------------
+G-No: 20190129-0
+    Date: 20190129
+    Pushing Time: 15:00
+    Version: 0.0.8
+    Subject：
+    Push Content:
+        1. Change some routes for req.params at back end. In ExpressJS context, "events/:eventId" & "events/categories" may 
+           cause confusion when passing between front end & back end.
+        2. Update "Doctor Management" pages and update table h1_health_doctors in DB;
+        3. Fixed some bugs in "Event Management".
+        4. Add validation to Add / Update product.
+        5. Solve the problem that Location Management cannot be seen.
+        
+                         

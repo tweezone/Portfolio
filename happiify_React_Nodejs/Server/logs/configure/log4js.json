@@ -1,0 +1,36 @@
+{
+    "appenders": {
+        "console": { "type": "console" },
+        "file": {
+            "type": "dateFile",
+            "filename": "logs/monitor/monitor",
+            "pattern": " [ yyyy-MM-dd ].log",
+            "alwaysIncludePattern": true
+        },
+        "email":{
+            "type": "@log4js-node/smtp",
+            "recipients": "wang.ruihai.toronto@gmail.com",
+            "transport": "SMTP",
+            "SMTP":  {
+                "host" : "smtp.gmail.com",
+                "port" : 465,
+                "secure": true,
+                "auth": {
+                    "user":"wang.ruihai.toronto@gmail.com",
+                    "pass": "wrh197411wrh197411"
+                }
+            },
+            "subject": "Server Monitoring Data",
+            "attachment": {
+                "enable": true,
+                "filename": "monitoring_data.log ",
+                "message": "See the attachment for the latest logs."
+            },
+            "sendInterval": 43200
+        }
+    },
+    "categories":{
+        "default": {"appenders": ["console"], "level":"all"},
+        "cheese": {"appenders": ["file", "email"], "level":"all"}
+    }
+}

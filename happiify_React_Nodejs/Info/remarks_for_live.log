@@ -1,0 +1,16 @@
+Date: 2019-01-25
+    Remarks:
+        1. New version number: 0.0.7;
+        2. No new plug-ins needed from last live to now.
+        3. Need to execute DDL from 62-70.
+        4. If need the information related to this version, please see info/git_push_history.log.
+
+//-----------------------------------------------------------------------------------------------------------------------
+Date: 2019-01-29
+    Remarks: 
+        1. New version number: 0.0.8;
+        2. No new plug-ins needed from last live to now.
+        3. Need to execute DDL command 71/72. 
+        4. NOTE: Add 5 files (image, education, qualification, major, achievement)
+           into the table "h1_health_doctors", and delete 1 field (description).
+        5. If need more information related to this version, please see info/git_push_history.log/G-No: 20190129-0.

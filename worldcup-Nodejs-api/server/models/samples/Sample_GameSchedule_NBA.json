@@ -1,0 +1,714 @@
+[
+  {
+    "id": 2,
+    "leagueName": "National Basketball Association",
+    "leagueAbbreviation": "NBA",
+    "leagueNames": [
+      {
+        "languageCode": "zh",
+        "displayName": "美国职业篮球联盟"
+      }
+    ],
+    "leagueAbbreviations": [
+      {
+        "languageCode": "zh",
+        "displayName": "NBA"
+      }
+    ],
+    "tags": "sports,basketball",
+    "tagsLanguages": [
+      {
+        "languageCode": "zh",
+        "displayName": "体育，篮球"
+      }
+    ],
+    "logoLink": "http://content.sportslogos.net/logos/6/982/full/8147__national_basketball_association-primary-2018.png",
+    "season": "2017-2018",
+    "game": [
+      {
+        "id": 1,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 2,
+          "name": "LOS ANGELES LAKERS",
+          "abbreviation": "LAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png",
+          "leagueId": 1,
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 2,
+          "name": "LOS ANGELES CLIPPERS",
+          "abbreviation": "LAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/236/full/5462_los_angeles_clippers-primary-2016.png",
+          "leagueId": 1,
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-19T22:30",
+        "venue": "Staples Center",
+        "FinalResult": "92-108",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "湖人"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "快船"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 5,
+          "name": "PHOENIX SUNS",
+          "abbreviation": "PHX",
+          "logoUrl": "http://content.sportslogos.net/logos/6/238/full/4370_phoenix_suns-primary-2014.png",
+          "leagueId": 1,
+          "city": "Phpenix",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 2,
+          "name": "LOS ANGELES LAKERS",
+          "abbreviation": "LAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png",
+          "leagueId": 1,
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-20T22:00",
+        "venue": "Talking Stick Resort Arena",
+        "FinalResult": "130-132",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "太阳"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "湖人"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 2,
+          "name": "LOS ANGELES LAKERS",
+          "abbreviation": "LAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png",
+          "leagueId": 1,
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 6,
+          "name": "NEW ORLEANS PELICANS",
+          "abbreviation": "NOP",
+          "logoUrl": "http://content.sportslogos.net/logos/6/4962/full/2681_new_orleans_pelicans-primary-2014.png",
+          "leagueId": 1,
+          "city": "New Orleans",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-22T21:30",
+        "venue": "Staples Center",
+        "FinalResult": "112-119",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "湖人"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "黄蜂"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 16,
+          "name": "DALLAS MAVERICKS",
+          "abbreviation": "DAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png",
+          "leagueId": 1,
+          "city": "Dallas",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 1,
+          "name": "GOLDEN STATE WARRIORS",
+          "abbreviation": "GSW",
+          "logoUrl": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png",
+          "leagueId": 1,
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-23T20:30",
+        "venue": "American Airlines",
+        "FinalResult": "103-133",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "小牛"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "勇士"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 6,
+          "name": "NEW ORLEANS PELICANS",
+          "abbreviation": "NOP",
+          "logoUrl": "http://content.sportslogos.net/logos/6/4962/full/2681_new_orleans_pelicans-primary-2014.png",
+          "leagueId": 1,
+          "city": "New Orleans",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 1,
+          "name": "GOLDEN STATE WARRIORS",
+          "abbreviation": "GSW",
+          "logoUrl": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png",
+          "leagueId": 1,
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-20T21:30",
+        "venue": "Smoothie King Center",
+        "FinalResult": "120-128",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "勇士"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "黄蜂"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 7,
+          "name": "MEMPHIS GRIZZLIES",
+          "abbreviation": "MEM",
+          "logoUrl": "http://content.sportslogos.net/logos/6/231/full/793.png",
+          "leagueId": 1,
+          "city": "Memphis",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 1,
+          "name": "GOLDEN STATE WARRIORS",
+          "abbreviation": "GSW",
+          "logoUrl": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png",
+          "leagueId": 1,
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-21T20:00",
+        "venue": "FedEx Forum",
+        "FinalResult": "111-101",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "灰熊"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "勇士"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 8,
+          "name": "TORONTO RAPTORS",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/227/full/4578_toronto_raptors-primary-2016.png",
+          "leagueId": 1,
+          "city": "Toronto",
+          "country": "CANADA"
+        },
+        "visitorTeam": {
+          "id": 1,
+          "name": "CHICAGO BULLS",
+          "abbreviation": "CHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/221/full/hj3gmh82w9hffmeh3fjm5h874.png",
+          "leagueId": 1,
+          "city": "Chicago",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-19T19:30",
+        "venue": "Air Canada Centre",
+        "FinalResult": "117-100",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "猛龙"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "公牛"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 8,
+          "name": "TORONTO RAPTORS",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/227/full/4578_toronto_raptors-primary-2016.png",
+          "leagueId": 1,
+          "city": "Toronto",
+          "country": "CANADA"
+        },
+        "visitorTeam": {
+          "id": 10,
+          "name": "PHILADELPHIA 76ERS",
+          "abbreviation": "PHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png",
+          "leagueId": 1,
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-21T19:30",
+        "venue": "Air Canada Centre",
+        "FinalResult": "128-94",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "猛龙"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "76人"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 11,
+          "name": "SAN ANTONIO SPURS",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/233/full/2547_san_antonio_spurs-primary-2018.png",
+          "leagueId": 1,
+          "city": "San Antonio",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 8,
+          "name": "TORONTO RAPTORS",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/227/full/4578_toronto_raptors-primary-2016.png",
+          "leagueId": 1,
+          "city": "Toronto",
+          "country": "CANADA"
+        },
+        "startDateTime": "2017-10-23T20:30",
+        "venue": "AT&T Center",
+        "FinalResult": "101-97",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "马刺"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "猛龙"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 12,
+          "name": "CLEVELAND CAVALIERS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/6/222/full/6921_cleveland_cavaliers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 13,
+          "name": "BOSTON CELTICS",
+          "abbreviation": "BOS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/213/full/slhg02hbef3j1ov4lsnwyol5o.png",
+          "leagueId": 1,
+          "city": "Boston",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-17T20:01",
+        "venue": "Quicken Loans Arena",
+        "FinalResult": "102-99",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "骑士"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "凯尔特人"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 14,
+          "name": "MILWAUKEE BUCKS",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/225/full/8275_milwaukee_bucks-primary-2016.png",
+          "leagueId": 1,
+          "city": "Milwaukee",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 14,
+          "name": "CLEVELAND CAVALIERS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/6/222/full/6921_cleveland_cavaliers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-20T19:00",
+        "venue": "BMO Harris Bradley Center",
+        "FinalResult": "97-116",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "雄鹿"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "骑士"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 12,
+          "name": "CLEVELAND CAVALIERS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/6/222/full/6921_cleveland_cavaliers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 15,
+          "name": "ORLANDO MAGIC",
+          "abbreviation": "ORL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/217/full/wd9ic7qafgfb0yxs7tem7n5g4.gif",
+          "leagueId": 1,
+          "city": "Orlando",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-21T20:00",
+        "venue": "Quicken Loans Arena",
+        "FinalResult": "93-114",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "骑士"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "魔术"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 17,
+          "name": "SACRAMENTO KINGS",
+          "abbreviation": "SAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png",
+          "leagueId": 1,
+          "city": "Sacramento",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 3,
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "leagueId": 1,
+          "city": "Houston",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-18T22:00",
+        "venue": "Golden 1 Center",
+        "FinalResult": "100-105",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "国王"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "火箭"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 3,
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "leagueId": 1,
+          "city": "Houston",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 16,
+          "name": "DALLAS MAVERICKS",
+          "abbreviation": "DAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png",
+          "leagueId": 1,
+          "city": "Dallas",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-21T20:00",
+        "venue": "Toyota Center",
+        "FinalResult": "107-91",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "火箭"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "小牛"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 3,
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "leagueId": 1,
+          "city": "Houston",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 7,
+          "name": "MEMPHIS GRIZZLIES",
+          "abbreviation": "MEM",
+          "logoUrl": "http://content.sportslogos.net/logos/6/231/full/793.png",
+          "leagueId": 1,
+          "city": "Memphis",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-23T20:00",
+        "venue": "Toyota Center",
+        "FinalResult": "90-98",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "火箭"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "灰熊"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 18,
+          "name": "INDIANA PACERS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 19,
+          "name": "BROOKLYN NETS",
+          "abbreviation": "BKN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/3786/full/137_brooklyn-nets-primary-2013.png",
+          "leagueId": 1,
+          "city": "Brooklyn",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-18T19:00",
+        "venue": "Bankers Life Fieldhouse",
+        "FinalResult": "140-131",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "步行者"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "篮网"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 18,
+          "name": "INDIANA PACERS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 20,
+          "name": "PORTLAND TRAIL BLAZERS",
+          "abbreviation": "POR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/239/full/9725_portland_trail_blazers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Portland",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-20T19:00",
+        "venue": "Bankers Life Fieldhouse",
+        "FinalResult": "96-114",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "步行者"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "开拓者"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "leagueId": 1,
+        "homeTeam": {
+          "id": 21,
+          "name": "MIAMI HEAT",
+          "abbreviation": "MIA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif",
+          "leagueId": 1,
+          "city": "Miami",
+          "country": "USA"
+        },
+        "visitorTeam": {
+          "id": 18,
+          "name": "INDIANA PACERS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+          "leagueId": 1,
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "startDateTime": "2017-10-21T20:00",
+        "venue": "AmericanAirlines Arena",
+        "FinalResult": "112-108",
+        "playedStatus": "completed",
+        "homeTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "热火"
+          }
+        ],
+        "vistorTeamNames": [
+          {
+            "languageCode": "zh",
+            "displayName": "步行者"
+          }
+        ]
+      }
+    ]
+  }
+]

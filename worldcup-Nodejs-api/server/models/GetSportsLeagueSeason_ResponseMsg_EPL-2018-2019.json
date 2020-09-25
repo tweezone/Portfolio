@@ -1,0 +1,871 @@
+﻿[
+  {
+    "id": "dd23ceea94834b41a7ee72c92890fd4d",
+    "name": "English Premier League",
+    "abbreviation": "EPL",
+    "tags": [
+      "sports,basketball"
+    ],
+    "logoUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/03/27/17a97e33-a0e4-4aa2-aa6c-c4452ad7622e/PL_Purple_280X158.png",
+    "country": "United Kingdom",
+    "names": [
+      {
+        "id": "e3463dbe47c34128aa8f1e3e55064e02",
+        "languageCode": "zh",
+        "displayName": "英国足球超级联盟"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "ff901c2c414d4f5faffc3275fcc475df",
+        "languageCode": "zh",
+        "displayName": "EPL"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "9f6a4417e8bd4feeae77bc386f9556fb",
+        "languageCode": "zh",
+        "displayName": "体育，足球"
+      }
+    ],
+    "games": [
+      {
+        "id": "bc42317e950d4a2ca8bcc713d3a52e93",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "5df64ebc8bfe4e9f9ae943b9ba26b056",
+          "leagueAbbreviation": "EPL",
+          "name": "Manchester United",
+          "abbreviation": "MUN",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t1.svg",
+          "city": "Manchester",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "afa384fc1ee445178938b2c64e209ccd",
+          "leagueAbbreviation": "EPL",
+          "name": "Leicester City",
+          "abbreviation": "LEI",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t13.svg",
+          "city": "Leicester",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-10T15:00-0400",
+        "venue": "Old Trafford",
+        "city": "Manchester",
+        "finalResult": "2-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-10T14:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "c686d829486245cfacff311a3a582396",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "2194522a285f4ea0bf4537e0342d6feb",
+          "leagueAbbreviation": "EPL",
+          "name": "Newcastle United",
+          "abbreviation": "NEW",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t4.svg",
+          "city": "Newcastle",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "7c88730a40ce43ddad3dbbd837194858",
+          "leagueAbbreviation": "EPL",
+          "name": "Tottenham Hotspur",
+          "abbreviation": "TOT",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t6.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-11T7:30-0400",
+        "venue": "St. James' Park",
+        "city": "Newcastle",
+        "finalResult": "1-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T7:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "dd63dfdee41141f0bd488dfe0ba26525",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "6cbc6a91f7834b90a38c999815b9eba2",
+          "leagueAbbreviation": "EPL",
+          "name": "Huddersfield Town",
+          "abbreviation": "HUD",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t38.svg",
+          "city": "Huddersfield",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "520bb6537bd64b3fb2fde2860f1fff3b",
+          "leagueAbbreviation": "EPL",
+          "name": "Chelsea",
+          "abbreviation": "CHE",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t8.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-11T10:00-0400",
+        "venue": "John Smith's Stadium",
+        "city": "Huddersfield",
+        "finalResult": "0-3",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "53b7ee6b61824900b4674111c93f160c",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "a0b04cfc98ca4dc883f7d86b9f963cc1",
+          "leagueAbbreviation": "EPL",
+          "name": "AFC Bournemouth",
+          "abbreviation": "BOU",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t91.svg",
+          "city": "Bournemouth",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "1938d9b409b049949f373791e43bc7c9",
+          "leagueAbbreviation": "EPL",
+          "name": "Cardiff City",
+          "abbreviation": "CAR",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t97.svg",
+          "city": "Cardiff",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-11T10:00-0400",
+        "venue": "Vitality Stadium",
+        "city": "Bournemouth",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "826fd15e512b4ca4a6fd615b28976226",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "4b4c008dea7b442ea5be881b071c87c8",
+          "leagueAbbreviation": "EPL",
+          "name": "Watford",
+          "abbreviation": "WAT",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t57.svg",
+          "city": "Watford",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "643639012f6b40fca7442c016f30efc0",
+          "leagueAbbreviation": "EPL",
+          "name": "Brighton and Hove Albion",
+          "abbreviation": "BHA",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t36.svg",
+          "city": "Brighton",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-11T10:00-0400",
+        "venue": "Vicarage Road",
+        "city": "Watford",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "3c568b1d8424452a852540a511abca7f",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "7861ae6fec0f4bc1982a46e76759b57b",
+          "leagueAbbreviation": "EPL",
+          "name": " Fulham",
+          "abbreviation": "FUL",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t54.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "04767573f0b74ec28ef8955525c688f6",
+          "leagueAbbreviation": "EPL",
+          "name": "Crystal Palace",
+          "abbreviation": "CRY",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t31.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-11T10:00-0400",
+        "venue": "Craven Cottage",
+        "city": "London",
+        "finalResult": "0-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "5b3a7e2e1417466bbdf5a0cb074be406",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "d23ed95e0108484f882cc4218583a62a",
+          "leagueAbbreviation": "EPL",
+          "name": "Wolverhampton Wanderers",
+          "abbreviation": "WOL",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t39.svg",
+          "city": "Wolverhampton",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "3259531b4c754ad494c108b683a1fe77",
+          "leagueAbbreviation": "EPL",
+          "name": "Everton",
+          "abbreviation": "EVE",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t11.svg",
+          "city": "Liverpool",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-11T12:30-0400",
+        "venue": "Molineux Stadium",
+        "city": "Wolverhampton",
+        "finalResult": "2-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T12:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "ddfd997d48574ec1a64b6453f0f09baf",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "b7a2a8f68bbd4e0295590f882db5da2c",
+          "leagueAbbreviation": "EPL",
+          "name": "Southampton",
+          "abbreviation": "SOU",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t20.svg",
+          "city": "Southampton",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "497995e707e948adadabbbfa90930760",
+          "leagueAbbreviation": "EPL",
+          "name": "Burnley",
+          "abbreviation": "BUR",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t90.svg",
+          "city": "Burnley",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-12T08:30-0400",
+        "venue": "St. Mary's Stadium",
+        "city": "Southampton",
+        "finalResult": "0-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-12T08:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 1000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "33d3b51670374dd987fa999cd6320efa",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "52a27ec4fdf440a785e9640880131278",
+          "leagueAbbreviation": "EPL",
+          "name": "Liverpool",
+          "abbreviation": "LIV",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t14.svg",
+          "city": "Liverpool",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "4d144fdbd2dd49df88e09d9f0f3f47e2",
+          "leagueAbbreviation": "EPL",
+          "name": "West Ham United",
+          "abbreviation": "WHU",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t21.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-12T8:30-0400",
+        "venue": "Anfield",
+        "city": "Liverpool",
+        "finalResult": "4-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-12T8:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "9d1ebd438d294ead889efcdd0dfabae7",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "80e791a8dc0c41439316eb1e844a224f",
+          "leagueAbbreviation": "EPL",
+          "name": "Arsenal",
+          "abbreviation": "ARS",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t3.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "93e93a7bd10f4c91afc5d7791217a7cc",
+          "leagueAbbreviation": "EPL",
+          "name": "Manchester City",
+          "abbreviation": "MCI",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t43.svg",
+          "city": "Manchester",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-12T11:00-0400",
+        "venue": "Emirates Stadium",
+        "city": "London",
+        "finalResult": "0-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-12T10:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "2a45d79e39da4320a1315d7d7b85cd50",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "1938d9b409b049949f373791e43bc7c9",
+          "leagueAbbreviation": "EPL",
+          "name": "Cardiff City",
+          "abbreviation": "CAR",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t97.svg",
+          "city": "Cardiff",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "2194522a285f4ea0bf4537e0342d6feb",
+          "leagueAbbreviation": "EPL",
+          "name": "Newcastle United",
+          "abbreviation": "NEW",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t4.svg",
+          "city": "Newcastle",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-18T07:30-0400",
+        "venue": "Cardiff City Stadium",
+        "city": "Cardiff",
+        "finalResult": "0-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T07:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "094dabc630814014bf252a50323e23e1",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "7c88730a40ce43ddad3dbbd837194858",
+          "leagueAbbreviation": "EPL",
+          "name": "Tottenham Hotspur",
+          "abbreviation": "TOT",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t6.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "7861ae6fec0f4bc1982a46e76759b57b",
+          "leagueAbbreviation": "EPL",
+          "name": " Fulham",
+          "abbreviation": "FUL",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t54.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-18T10:00-0400",
+        "venue": "Wembley Stadium",
+        "city": "London",
+        "finalResult": "3-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "0b0100bdfab34ef9a52f797e5fa99fe8",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "4d144fdbd2dd49df88e09d9f0f3f47e2",
+          "leagueAbbreviation": "EPL",
+          "name": "West Ham United",
+          "abbreviation": "WHU",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t21.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "a0b04cfc98ca4dc883f7d86b9f963cc1",
+          "leagueAbbreviation": "EPL",
+          "name": "AFC Bournemouth",
+          "abbreviation": "BOU",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t91.svg",
+          "city": "Bournemouth",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-18T10:00-0400",
+        "venue": "London Stadium",
+        "city": "London",
+        "finalResult": "1-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "6d37ccbaeec74048b37b06d5d6cf578c",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "afa384fc1ee445178938b2c64e209ccd",
+          "leagueAbbreviation": "EPL",
+          "name": "Leicester City",
+          "abbreviation": "LEI",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t13.svg",
+          "city": "Leicester",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "d23ed95e0108484f882cc4218583a62a",
+          "leagueAbbreviation": "EPL",
+          "name": "Wolverhampton Wanderers",
+          "abbreviation": "WOL",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t39.svg",
+          "city": "Wolverhampton",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-18T10:00-0400",
+        "venue": "King Power Stadium",
+        "city": "Leicester",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "c292a0f6310547888b3775b814610e64",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "3259531b4c754ad494c108b683a1fe77",
+          "leagueAbbreviation": "EPL",
+          "name": "Everton",
+          "abbreviation": "EVE",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t11.svg",
+          "city": "Liverpool",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "b7a2a8f68bbd4e0295590f882db5da2c",
+          "leagueAbbreviation": "EPL",
+          "name": "Southampton",
+          "abbreviation": "SOU",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t20.svg",
+          "city": "Southampton",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-18T10:00-0400",
+        "venue": "Goodison Park",
+        "city": "Liverpool",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T09:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "b2db54a2131d478cbea0c7aece79a5da",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "520bb6537bd64b3fb2fde2860f1fff3b",
+          "leagueAbbreviation": "EPL",
+          "name": "Chelsea",
+          "abbreviation": "CHE",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t8.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "80e791a8dc0c41439316eb1e844a224f",
+          "leagueAbbreviation": "EPL",
+          "name": "Arsenal",
+          "abbreviation": "ARS",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t3.svg",
+          "city": "London",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-18T12:30-0400",
+        "venue": "Stamford Bridge",
+        "city": "London",
+        "finalResult": "3-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T12:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "7ad178f245cc46148ee1704146b5b69d",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "93e93a7bd10f4c91afc5d7791217a7cc",
+          "leagueAbbreviation": "EPL",
+          "name": "Manchester City",
+          "abbreviation": "MCI",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t43.svg",
+          "city": "Manchester",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "6cbc6a91f7834b90a38c999815b9eba2",
+          "leagueAbbreviation": "EPL",
+          "name": "Huddersfield Town",
+          "abbreviation": "HUD",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t38.svg",
+          "city": "Huddersfield",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-19T08:30-0400",
+        "venue": "Etihad Stadium",
+        "city": "Manchester",
+        "finalResult": "6-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T08:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "4da224b26a89455b81d07102f09b9f63",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "497995e707e948adadabbbfa90930760",
+          "leagueAbbreviation": "EPL",
+          "name": "Burnley",
+          "abbreviation": "BUR",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t90.svg",
+          "city": "Burnley",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "4b4c008dea7b442ea5be881b071c87c8",
+          "leagueAbbreviation": "EPL",
+          "name": "Watford",
+          "abbreviation": "WAT",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t57.svg",
+          "city": "Watford",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-19T08:30-0400",
+        "venue": "Turf Moor",
+        "city": "Burnley",
+        "finalResult": "1-3",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T08:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "e9a4c33022f9400e871cf1a1a32a065e",
+        "leagueAbbreviation": "EPL",
+        "season": "2018-2019",
+        "home": {
+          "id": "643639012f6b40fca7442c016f30efc0",
+          "leagueAbbreviation": "EPL",
+          "name": "Brighton and Hove Albion",
+          "abbreviation": "BHA",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t36.svg",
+          "city": "Brighton",
+          "country": "UK"
+        },
+        "visitor": {
+          "id": "5df64ebc8bfe4e9f9ae943b9ba26b056",
+          "leagueAbbreviation": "EPL",
+          "name": "Manchester United",
+          "abbreviation": "MUN",
+          "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t1.svg",
+          "city": "Manchester",
+          "country": "UK"
+        },
+        "startDateTime": "2018-08-19T11:00-0400",
+        "venue": "Amex Stadium",
+        "city": "Brighton",
+        "finalResult": "3-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T10:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      }
+    ]
+  }
+]

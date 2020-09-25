@@ -1,0 +1,370 @@
+[
+	{
+		"datetime": "Fri Dec 21 2018 21:24:26 GMT-0500",
+		"details": {
+			"contract": "AiWinCoin",
+			"targetNetwork": "devnet",
+			"address": "0xc5147222ac5913654a4bfb2ddd29b733784c06a0"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:24:54 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x4f64de5586a002c45e5db086f136936c8061d32d",
+			"game": "'BOSTON CELTICS' vs 'PHILADELPHIA 76ERS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:25:05 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xe0da638f2c17c04cdf955bdb35eeb81fcb54d274",
+			"game": "'GOLDEN STATE WARRIORS' vs 'OKLAHOMA CITY THUNDER'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:25:29 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xeb5c3a97790a635d0f92f58de20fc2bf21bf6552",
+			"game": "'CHARLOTTE HORNETS' vs 'MILWAUKEE BUCKS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:25:33 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x7cfa8e0777a28726c426d7368ca8ca85a6d0dcce",
+			"game": "'DETROIT PISTONS' vs 'BROOKLYN NETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:25:41 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xac9e9b2647cf065d433a28c011c9d8b45f07c3bc",
+			"game": "'INDIANA PACERS' vs 'MEMPHIS GRIZZLIES'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:26:01 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x1942abee589a7c12dbc89db53ebb3e3507c1604e",
+			"game": "'ORLANDO MAGIC' vs 'MIAMI HEAT'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:26:30 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x07a33a47608ae1b67c5e0982f76b5053645b4603",
+			"game": "'NEW YORK KNICKS' vs 'ATLANTA HAWKS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:26:58 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x50c3468bdef4a530f6608f3d164de7fb9789d0d7",
+			"game": "'TORONTO RAPTORS' vs 'CLEVELAND CAVALIERS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:27:23 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xb666441d4c0a25c2dab1a4a2217a20c4bab84e19",
+			"game": "'HOUSTON ROCKETS' vs 'NEW ORLEANS PELICANS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:27:32 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x2d65ad6e4c5bf1b97f1c5307b988a52968da6c60",
+			"game": "'SAN ANTONIO SPURS' vs 'MINNESOTA TIMBERWOLVES'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:27:41 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x0f3b3a06887e848dd6f1aaac0183d94fc63fe204",
+			"game": "'SACRAMENTO KINGS' vs 'UTAH JAZZ'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:27:48 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xd881bad9f370e6352df034241e689d47066d96fe",
+			"game": "'LOS ANGELES CLIPPERS' vs 'DENVER NUGGETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:28:29 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x320813311c90d2fd6d58e11d44b354a17d8bc8ee",
+			"game": "'PHOENIX SUNS' vs 'DALLAS MAVERICKS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:28:46 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xbebfe66ccda2b8263375c1da28456e32c803bfcf",
+			"game": "'PHILADELPHIA 76ERS' vs 'CHICAGO BULLS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:29:10 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xda089847605f8e41b9acc10939dcd42261249d91",
+			"game": "'WASHINGTON WIZARDS' vs 'MIAMI HEAT'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:29:15 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x4f954fa18ab58dcd16632e43bea5414c6adefbd3",
+			"game": "'PORTLAND TRAIL BLAZERS' vs 'LOS ANGELES LAKERS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:29:41 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x7db5ab336647cc10532d089b1823ee83f4aeb41f",
+			"game": "'ORLANDO MAGIC' vs 'CHARLOTTE HORNETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:29:45 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x7e412c47d2c2d142203021ee016d4a7783bf9ce0",
+			"game": "'BROOKLYN NETS' vs 'NEW YORK KNICKS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:30:19 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x3e908bb817de1e881d105ce7a317b74ddfbca779",
+			"game": "'TORONTO RAPTORS' vs 'BOSTON CELTICS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:30:29 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x8fbae55a8a907d706001e538e45569a48af335cd",
+			"game": "'MEMPHIS GRIZZLIES' vs 'ATLANTA HAWKS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:31:01 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xcf3726f5d917ba3d7e0b597e558e537b547b8c78",
+			"game": "'MINNESOTA TIMBERWOLVES' vs 'CLEVELAND CAVALIERS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:31:17 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xb3936f542f88acf0f2586700c9763073c1cde6a6",
+			"game": "'NEW ORLEANS PELICANS' vs 'SACRAMENTO KINGS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:31:30 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x65b6134dc10835e74934c263dfcd9725c17554f8",
+			"game": "'MILWAUKEE BUCKS' vs 'INDIANA PACERS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:31:57 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xeb601cb10a91bef862e9a6b18d7b8016fb036c86",
+			"game": "'UTAH JAZZ' vs 'GOLDEN STATE WARRIORS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:32:41 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xa6a5cda436bde6907ab453741ae8c035fc2e2649",
+			"game": "'LOS ANGELES CLIPPERS' vs 'OKLAHOMA CITY THUNDER'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:32:46 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xeef992f7c2a8139862e6094e19b2509e152294ff",
+			"game": "'INDIANA PACERS' vs 'BROOKLYN NETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:33:15 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xc92842e3eb7b5316e4731bae08e05575257d1718",
+			"game": "'WASHINGTON WIZARDS' vs 'TORONTO RAPTORS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:33:22 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x951720db87909610bc5222ca85b8961bc262dc8d",
+			"game": "'NEW YORK KNICKS' vs 'BOSTON CELTICS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:33:33 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xb842d385a5351ba6b5ae7ca64e564ec610286f8e",
+			"game": "'PHILADELPHIA 76ERS' vs 'ORLANDO MAGIC'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:33:43 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x97dc0759c97db0c50992f199260281581d02e8a7",
+			"game": "'MIAMI HEAT' vs 'CHARLOTTE HORNETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:33:48 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x66b7a2edd9af2f7b4d57b08edc9f76b91e457667",
+			"game": "'CHICAGO BULLS' vs 'DETROIT PISTONS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:33:53 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x281f96eda9b986d835d49b87bf406150159dc75c",
+			"game": "'DALLAS MAVERICKS' vs 'MINNESOTA TIMBERWOLVES'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:34:13 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x60ea7c460308b682cf906990426f6035795ff1e7",
+			"game": "'DENVER NUGGETS' vs 'PHOENIX SUNS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:34:52 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x43cda9b5ce39780810bc5578bdb0f43d92c368cf",
+			"game": "'PORTLAND TRAIL BLAZERS' vs 'SAN ANTONIO SPURS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:35:41 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x939d7cdfc2d640d6705842c57a50726d8a6816d3",
+			"game": "'LOS ANGELES LAKERS' vs 'HOUSTON ROCKETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:36:03 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x3b37117d34cb67e32dba73fae7aaa4627f4e9a20",
+			"game": "'CLEVELAND CAVALIERS' vs 'ATLANTA HAWKS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:36:11 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xe7b227b8fc37ba9dd79fcaf356ccbb31481a03b8",
+			"game": "'OKLAHOMA CITY THUNDER' vs 'SACRAMENTO KINGS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:36:29 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0x73747fa82738a1f5b16e40f960b171051a7e91c2",
+			"game": "'DENVER NUGGETS' vs 'GOLDEN STATE WARRIORS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:36:37 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xf587fc7a4915de50c7fcb99d247c245d1612a64f",
+			"game": "'LOS ANGELES CLIPPERS' vs 'HOUSTON ROCKETS'"
+		}
+	},
+	{
+		"datetime": "Fri Dec 21 2018 21:36:41 GMT-0500",
+		"details": {
+			"targetNetwork": "devnet",
+			"contracts": "PredictionMarket",
+			"address": "0xd8002dbd74fbd4aca383b4133a9ab246752d2346",
+			"game": "'LOS ANGELES CLIPPERS' vs 'HOUSTON ROCKETS'"
+		}
+	}
+]

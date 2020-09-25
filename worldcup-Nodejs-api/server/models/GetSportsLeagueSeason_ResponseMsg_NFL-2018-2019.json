@@ -1,0 +1,783 @@
+[
+  {
+    "id": "7c6a501ff5064efba011d33d264f5ac9",
+    "name": "National Football League",
+    "abbreviation": "NHL",
+    "tags": [
+      "sports,football"
+    ],
+    "logoUrl": "http://content.sportslogos.net/logos/7/1007/full/dwuw5lojnwsj12vfe0hfa6z47.gif",
+    "country": "USA",
+    "names": [
+      {
+        "id": "3725ff63902d48ad9d3e09488e84fd00",
+        "languageCode": "zh",
+        "displayName": "美国职业橄榄球大联盟"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "50faf8fc5d514566a67d24739bccb94e",
+        "languageCode": "zh",
+        "displayName": "NFL"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "0f1b102b38d84155bd820f4dd6d35d77",
+        "languageCode": "zh",
+        "displayName": "体育，橄榄球"
+      }
+    ],
+    "games": [
+      {
+        "id": "e021335795bd495e8bc69c46e2736234",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "4f84fc2857a44df1a1a74fc84a3cd2f6",
+          "leagueAbbreviation": "NFL",
+          "name": "BALTIMORE RAVENS",
+          "abbreviation": "BAL",
+          "logoUrl": "http://content.sportslogos.net/logos/7/153/full/318.png",
+          "city": "Baltimore",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "44c35f8a3ea0417ca6a78c88ddce005a",
+          "leagueAbbreviation": "NFL",
+          "name": "CHICAGO BEARS",
+          "abbreviation": "CHI",
+          "logoUrl": "http://content.sportslogos.net/logos/7/169/full/364.png",
+          "city": "Chicago",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-02T20:00-0400",
+        "venue": "M&T Bank Stadium",
+        "city": "Baltimore",
+        "finalResult": "17-16",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-02T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "5defd3e405c1456fa2847497e0b9f3fc",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "1f44f24713b04208b5bb601bd0ab3262",
+          "leagueAbbreviation": "NFL",
+          "name": "NEW YORK GIANTS",
+          "abbreviation": "NYG",
+          "logoUrl": "http://content.sportslogos.net/logos/7/166/full/919.gif",
+          "city": "East Rutherford",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "a630fd6ce7364505b64f197752d3dad6",
+          "leagueAbbreviation": "NFL",
+          "name": "CLEVELAND BROWNS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/7/155/full/7855_cleveland_browns-primary-2015.png",
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:00-0400",
+        "venue": "MetLife Stadium",
+        "city": "East Rutherford",
+        "finalResult": "10-20",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 6000
+          }
+        ]
+      },
+      {
+        "id": "9550ff72e57847789648751c2b23e71a",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "5ddc8492eab041ceb302a76e9b135601",
+          "leagueAbbreviation": "NFL",
+          "name": "BUFFALO BILLS",
+          "abbreviation": "BUF",
+          "logoUrl": "http://content.sportslogos.net/logos/7/149/full/n0fd1z6xmhigb0eej3323ebwq.png",
+          "city": "Orchard Park",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "72faa347dfe64f1da2e88e3c41c51c82",
+          "leagueAbbreviation": "NFL",
+          "name": "CAROLINA PANTHERS",
+          "abbreviation": "CAR",
+          "logoUrl": "http://content.sportslogos.net/logos/7/174/full/f1wggq2k8ql88fe33jzhw641u.png",
+          "city": "Charlotte",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:00-0400",
+        "venue": "New Era Field",
+        "city": "Orchard Park",
+        "finalResult": "23-28",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "8252ed6630bf4aedae38fe673c5aa4db",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "edf907111d754b73bce8307b497e71a5",
+          "leagueAbbreviation": "NFL",
+          "name": "CINCINNATI BENGALS",
+          "abbreviation": "CIN",
+          "logoUrl": "http://content.sportslogos.net/logos/7/154/full/403.png",
+          "city": "Cincinnati",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "44c35f8a3ea0417ca6a78c88ddce005a",
+          "leagueAbbreviation": "NFL",
+          "name": "CHICAGO BEARS",
+          "abbreviation": "CHI",
+          "logoUrl": "http://content.sportslogos.net/logos/7/169/full/364.png",
+          "city": "Chicago",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:00-0400",
+        "venue": "Paul Brown Stadium",
+        "city": "Cincinnati",
+        "finalResult": "30-27",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "3961acb6e68c40cc85868a81bac64b33",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "fd40c46998444b0fba58690e14df49ba",
+          "leagueAbbreviation": "NFL",
+          "name": "PHILADELPHIA EAGLES",
+          "abbreviation": "PHI",
+          "logoUrl": "http://content.sportslogos.net/logos/7/167/full/960.png",
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "e87e5802b43e4ef39bc263aa3f280c74",
+          "leagueAbbreviation": "NFL",
+          "name": "PITTSBURGH STEELERS",
+          "abbreviation": "PIT",
+          "logoUrl": "http://content.sportslogos.net/logos/7/156/full/970.png",
+          "city": "Pittsburgh",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:00-0400",
+        "venue": "Lincoln Financial Field",
+        "city": "Philadelphia",
+        "finalResult": "14-31",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "7a90910513d447e68e0349d82fc484f8",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "c71dd08ad71d4f1faab5548a17a39f84",
+          "leagueAbbreviation": "NFL",
+          "name": "JACKSONVILLE JAGUARS",
+          "abbreviation": "JAX",
+          "logoUrl": "http://content.sportslogos.net/logos/7/159/full/8856_jacksonville_jaguars-alternate-2013.png",
+          "city": "Jacksonville",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "0e98395a1cf749a388613314d6e79e85",
+          "leagueAbbreviation": "NFL",
+          "name": "NEW ORLEANS SAINTS",
+          "abbreviation": "NO",
+          "logoUrl": "http://content.sportslogos.net/logos/7/175/full/907.png",
+          "city": "New Orleans",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:00-0400",
+        "venue": "TIAA Bank Field",
+        "city": "Jacksonville",
+        "finalResult": "20-24",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "fe101e5ac25f49bebe0815134021997c",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "51ea4cd7f7834380a057b68fdb751402",
+          "leagueAbbreviation": "NFL",
+          "name": "MIAMI DOLPHINS",
+          "abbreviation": "MIA",
+          "logoUrl": "http://content.sportslogos.net/logos/7/150/full/7306_miami_dolphins-primary-2018.png",
+          "city": "Miami Gardens",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "ccdd289c0f7a41ecaf9d7d9a91b90878",
+          "leagueAbbreviation": "NFL",
+          "name": "TAMPA BAY BUCCANEERS",
+          "abbreviation": "TB",
+          "logoUrl": "http://content.sportslogos.net/logos/7/176/full/3670_tampa_bay_buccaneers-primary-2014.png",
+          "city": "Tampa",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:00-0400",
+        "venue": "Hard Rock Stadium",
+        "city": "Miami Gardens",
+        "finalResult": "24-26",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "c848a18ae29b440081ae269e94574de7",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "5afa503c5ba34d33b0e0497fe402bf06",
+          "leagueAbbreviation": "NFL",
+          "name": "NEW ENGLAND PATRIOTS",
+          "abbreviation": "NE",
+          "logoUrl": "http://content.sportslogos.net/logos/7/151/full/y71myf8mlwlk8lbgagh3fd5e0.png",
+          "city": "Foxborough",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "62e2e9bd486f48828003206dd8160d9d",
+          "leagueAbbreviation": "NFL",
+          "name": "WASHINGTON REDSKINS",
+          "abbreviation": "WAS",
+          "logoUrl": "http://content.sportslogos.net/logos/7/168/full/im5xz2q9bjbg44xep08bf5czq.png",
+          "city": "Landover",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:30-0400",
+        "venue": "Gillette Stadium",
+        "city": "Foxborough",
+        "finalResult": "26-17",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "7832897c018942bdb22d952a57518ebf",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "4f84fc2857a44df1a1a74fc84a3cd2f6",
+          "leagueAbbreviation": "NFL",
+          "name": "BALTIMORE RAVENS",
+          "abbreviation": "BAL",
+          "logoUrl": "http://content.sportslogos.net/logos/7/153/full/318.png",
+          "city": "Baltimore",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "e717c0ea03304c57bbd2332f2e1ccc2d",
+          "leagueAbbreviation": "NFL",
+          "name": "LOS ANGELES RAMS",
+          "abbreviation": "LAR",
+          "logoUrl": "http://content.sportslogos.net/logos/7/5941/full/7953_los_angeles_rams-primary-2017.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T19:30-0400",
+        "venue": "M&T Bank Stadium",
+        "city": "Baltimore",
+        "finalResult": "33-7",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 6000
+          }
+        ]
+      },
+      {
+        "id": "5d82156e82664103a96712e91f9d4cb8",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "554b6a1cd0b540489c402ed27e91a99b",
+          "leagueAbbreviation": "NFL",
+          "name": "GREEN BAY PACKERS",
+          "abbreviation": "GB",
+          "logoUrl": "http://content.sportslogos.net/logos/7/171/full/dcy03myfhffbki5d7il3.png",
+          "city": "Green Bay",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "9e01cc4cf1ad46899d82ee4ebeb20f75",
+          "leagueAbbreviation": "NFL",
+          "name": "TENNESSEE TITANS",
+          "abbreviation": "TEN",
+          "logoUrl": "http://content.sportslogos.net/logos/7/160/full/1053.png",
+          "city": "Nashville",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T20:00-0400",
+        "venue": "Lambeau Field",
+        "city": "Green Bay",
+        "finalResult": "31-17",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "6f53aad312394dcbaaf5ec1dd263b51c",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "f113f964e3cb41bf94fddd547c32a07a",
+          "leagueAbbreviation": "NFL",
+          "name": "KANSAS CITY CHIEFS",
+          "abbreviation": "KC",
+          "logoUrl": "http://content.sportslogos.net/logos/7/162/full/857.png",
+          "city": "Kansas City",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "a7c6e1f17d8f490b91c624866874a576",
+          "leagueAbbreviation": "NFL",
+          "name": "HOUSTON TEXANS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/7/157/full/570.png",
+          "city": "Houston",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T20:30-0400",
+        "venue": "Arrowhead Stadium",
+        "city": "Kansas City",
+        "finalResult": "10-17",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "2f508f06885c4cc4a3c0010d2e38cc56",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "8d2bb5a4ef464fc790e1809649ba3e2a",
+          "leagueAbbreviation": "NFL",
+          "name": "SAN FRANCISCO 49ERS",
+          "abbreviation": "SF",
+          "logoUrl": "http://content.sportslogos.net/logos/7/179/full/9455_san_francisco_49ers-primary-2009.png",
+          "city": "San Francisco",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "4ddc79a12cd44b178240cea3f76c3cdd",
+          "leagueAbbreviation": "NFL",
+          "name": "DALLAS COWBOYS",
+          "abbreviation": "DAL",
+          "logoUrl": "http://content.sportslogos.net/logos/7/165/full/406.png",
+          "city": "Arlington",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T22:00-0400",
+        "venue": "Levi's Stadium",
+        "city": "San Francisco",
+        "finalResult": "24-21",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T21:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "71fb8d5aacaa4dbe948cdee8ced278df",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "cddfdbc4610245f8a4b7ef8eef80bf64",
+          "leagueAbbreviation": "NFL",
+          "name": "SEATTLE SEAHAWKS",
+          "abbreviation": "SEA",
+          "logoUrl": "http://content.sportslogos.net/logos/7/180/full/pfiobtreaq7j0pzvadktsc6jv.png",
+          "city": "Seattle",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "a4328cab5f3445019a508a430a13c8bd",
+          "leagueAbbreviation": "NFL",
+          "name": "INDIANAPOLIS COLTS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/7/158/full/593.png",
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-09T22:00-0400",
+        "venue": "CenturyLink Field",
+        "city": "Seattle",
+        "finalResult": "24-21",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-09T21:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "a8acdaf07fce41e38ba28aecda2c6595",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "dfcac3776a684c8a8f1c0cfb7a812c30",
+          "leagueAbbreviation": "NFL",
+          "name": "NEW YORK JETS",
+          "abbreviation": "NYJ",
+          "logoUrl": "http://content.sportslogos.net/logos/7/152/full/v7tehkwthrwefgounvi7znf5k.png",
+          "city": "New York",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "dd296eef63cb4961a87193f42573eaa7",
+          "leagueAbbreviation": "NFL",
+          "name": "ATLANTA FALCONS",
+          "abbreviation": "ATL",
+          "logoUrl": "http://content.sportslogos.net/logos/7/173/full/299.png",
+          "city": "Atlanta",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-10T21:30-0400",
+        "venue": "MetLife Stadium",
+        "city": "New York",
+        "finalResult": "17-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-10T21:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "d07bff11d8bf400d93bbe85920ca3005",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "9cfed34037e544dc9f4635a239e0b446",
+          "leagueAbbreviation": "NFL",
+          "name": "OAKLAND RAIDERS",
+          "abbreviation": "OAK",
+          "logoUrl": "http://content.sportslogos.net/logos/7/163/full/g9mgk6x3ge26t44cccm9oq1vl.png",
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "6833ebe9c2ec45eb9bfd24ec8e8d602b",
+          "leagueAbbreviation": "NFL",
+          "name": "DETROIT LIONS",
+          "abbreviation": "DET",
+          "logoUrl": "http://content.sportslogos.net/logos/7/170/full/1398_detroit_lions-primary-2017.png",
+          "city": "Detroit",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-10T22:30-0400",
+        "venue": "Oakland–Alameda County Coliseum",
+        "city": "Oakland",
+        "finalResult": "16-10",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-10T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "86661ed094fb4c0095cbbcbef61c2fc7",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "d5debc766a0348fa811680e7abf02bc8",
+          "leagueAbbreviation": "NFL",
+          "name": "DENVER BRONCOS",
+          "abbreviation": "DEN",
+          "logoUrl": "http://content.sportslogos.net/logos/7/161/full/9ebzja2zfeigaziee8y605aqp.png",
+          "city": "Denver",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "1c94513ade974c44884468a69ef6b4f5",
+          "leagueAbbreviation": "NFL",
+          "name": "MINNESOTA VIKINGS",
+          "abbreviation": "MIN",
+          "logoUrl": "http://content.sportslogos.net/logos/7/172/full/2704_minnesota_vikings-primary-2013.png",
+          "city": "Minnesota",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-11T21:05-0400",
+        "venue": "Broncos Stadium at Mile High",
+        "city": "Denver",
+        "finalResult": "28-42",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T20:35-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 7000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "3756f59cab4745a2b182600f5762a079",
+        "leagueAbbreviation": "NFL",
+        "season": "2018-2019",
+        "home": {
+          "id": "81afaf8c25b846188ee4e877650bbc96",
+          "leagueAbbreviation": "NFL",
+          "name": "ARIZONA CARDINALS",
+          "abbreviation": "ARI",
+          "logoUrl": "http://content.sportslogos.net/logos/7/177/full/kwth8f1cfa2sch5xhjjfaof90.png",
+          "city": "Arizona",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "756c824e4e904bd8a0044a2eb4edd9c2",
+          "leagueAbbreviation": "NFL",
+          "name": "LOS ANGELES CHARGERS",
+          "abbreviation": "LAC",
+          "logoUrl": "http://content.sportslogos.net/logos/7/6446/full/2415_los_angeles__chargers-primary-2017.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "startDateTime": "2018-08-11T22:00-0400",
+        "venue": "University of Phoenix Stadium",
+        "city": "Arizona",
+        "finalResult": "24-17",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-11T21:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "string",
+  "name": "string",
+  "abbreviation": "string",
+  "tags": [
+    "string"
+  ],
+  "logoUrl": "string",
+  "country": "string",
+  "names": [
+    {
+      "id": "string",
+      "languageCode": "string",
+      "displayName": "string"
+    }
+  ],
+  "abbreviations": [
+    {
+      "id": "string",
+      "languageCode": "string",
+      "displayName": "string"
+    }
+  ],
+  "tagsLanguages": [
+    {
+      "id": "string",
+      "languageCode": "string",
+      "displayName": "string"
+    }
+  ],
+  "games": [
+    {
+      "id": "string",
+      "leagueId": "string",
+      "leagueAbbreviation": "string",
+      "season": "string",
+      "home": {
+        "id": "string",
+        "leagueId": "string",
+        "leagueAbbreviation": "string",
+        "name": "string",
+        "abbreviation": "string",
+        "logoUrl": "string",
+        "city": "string",
+        "country": "string"
+      },
+      "visitor": {
+        "id": "string",
+        "leagueId": "string",
+        "leagueAbbreviation": "string",
+        "name": "string",
+        "abbreviation": "string",
+        "logoUrl": "string",
+        "city": "string",
+        "country": "string"
+      },
+      "startDateTime": "string",
+      "venue": "string",
+      "city": "string",
+      "finalResult": "string",
+      "playedStatus": "completed",
+      "betStartTime": "string",
+      "betEndTime": "string",
+      "odds": [
+        {
+          "id": "string",
+          "option": "string",
+          "odds": 0
+        }
+      ]
+    }
+  ]
+}

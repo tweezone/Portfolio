@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.happiify.archive.dao.FileItemDao">
+
+    <insert id="insert" parameterType="com.happiify.archive.domain.FileItem"  useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO h1_fileitems (user_id, item_path, item_name, physical_name, item_description, creation_date,
+        item_size, is_folder, item_category)
+        VALUES(#{user_id},#{item_path},#{item_name},#{physical_name},#{item_description},#{creation_date},#{item_size},#{is_folder},#{item_category})
+    </insert>
+
+    <select id="getFileItemsByUserId" resultType="com.happiify.archive.domain.FileItem">
+        SELECT * FROM h1_fileitems WHERE user_id=#{user_id} and is_deleted = false
+    </select>
+
+    <select id="getFileItemDetail" resultType="com.happiify.archive.domain.FileItem">
+        SELECT * FROM h1_fileitems WHERE id=#{fileItemId}
+    </select>
+
+    <update id="deleteFileItem">
+        UPDATE h1_fileitems SET is_deleted=true WHERE id=#{fileItemId}
+    </update>
+
+    <update id="moveFileItem">
+
+        UPDATE h1_fileitems SET item_path=#{destinationPath} WHERE id=#{fileItemId};
+
+    </update>
+    <update id="renameFileItem">
+        UPDATE h1_fileitems SET item_name=#{newName}
+        WHERE id=#{fileItemId};
+    </update>
+    <update id="setFileItemToBePublic">
+        UPDATE h1_fileitems SET is_private=#{isPublic} WHERE id=#{fileItemId};
+    </update>
+
+    <update id="setFileItemToBeHealthRelated">
+        UPDATE h1_fileitems SET is_health=true WHERE id=#{fileItemId};
+    </update>
+    <update id="setFileItemCategory">
+        UPDATE h1_fileitems SET item_category=#{itemCategory}, item_path =#{newPath} WHERE id=#{itemId};
+    </update>
+    <update id="changeFileItemPath">
+        UPDATE h1_fileitems SET item_path=#{destinationPath} WHERE id=#{itemId}
+    </update>
+    <update id="changeFileItemsPathInFolder">
+        UPDATE h1_fileitems SET item_path=#{destinationPath} WHERE POSITION(#{currentPath} IN item_path)=1
+    </update>
+    <update id="editFileItem" parameterType="com.happiify.archive.domain.FileItem" >
+        UPDATE h1_fileitems SET modify_date=#{modify_date} WHERE id=#{id}
+    </update>
+</mapper>

@@ -1,0 +1,788 @@
+{
+  "id": 1,
+  "leagueName": "Premier League",
+  "leagueAbbreviation": "EPL",
+  "leagueNames": [
+    {
+      "languageCode": "zh",
+      "displayName": "英国足球超级联盟"
+    }
+  ],
+  "leagueAbbreviations": [
+    {
+      "languageCode": "zh",
+      "displayName": "英超"
+    }
+  ],
+  "tags": "sports,basketball",
+  "tagsLanguages": [
+    {
+      "languageCode": "zh",
+      "displayName": "体育，足球"
+    }
+  ],
+  "logoLink": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/03/27/17a97e33-a0e4-4aa2-aa6c-c4452ad7622e/PL_Purple_280X158.png",
+  "season": "2018-2019",
+  "game": [
+    {
+      "id": 1,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 1,
+        "name": "Manchester United",
+        "abbreviation": "MUN",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t1.svg",
+        "leagueId": 2,
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 2,
+        "name": "Leicester City",
+        "abbreviation": "LEI",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t13.svg",
+        "leagueId": 2,
+        "city": "Leicester",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-10T15:00",
+      "venue": "Old Trafford",
+      "FinalResult": "2-1",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "曼彻斯特联"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "莱斯特城"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 3,
+        "name": "Newcastle United",
+        "abbreviation": "NEW",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t4.svg",
+        "leagueId": 2,
+        "city": "Newcastle",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 4,
+        "name": "Tottenham Hotspur",
+        "abbreviation": "TOT",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t6.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-11T7:30",
+      "venue": "St. James' Park",
+      "FinalResult": "1-2",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "纽卡斯尔联"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "托特纳姆热刺"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 5,
+        "name": "Huddersfield Town",
+        "abbreviation": "HUD",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t38.svg",
+        "leagueId": 2,
+        "city": "Huddersfield",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 6,
+        "name": "Chelsea",
+        "abbreviation": "CHE",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t8.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-11T10:00",
+      "venue": "John Smith's Stadium",
+      "FinalResult": "0-3",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "哈德斯菲尔德"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "切尔西"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 7,
+        "name": "AFC Bournemouth",
+        "abbreviation": "BOU",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t91.svg",
+        "leagueId": 2,
+        "city": "Bournemouth",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 8,
+        "name": "Cardiff City",
+        "abbreviation": "CAR",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t97.svg",
+        "leagueId": 2,
+        "city": "Cardiff",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-11T10:00",
+      "venue": "Vitality Stadium",
+      "FinalResult": "2-0",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "伯恩茅斯"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "卡迪夫城"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 9,
+        "name": "Watford",
+        "abbreviation": "WAT",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t57.svg",
+        "leagueId": 2,
+        "city": "Watford",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 10,
+        "name": "Brighton and Hove Albion",
+        "abbreviation": "BHA",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t36.svg",
+        "leagueId": 2,
+        "city": "Brighton",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-11T10:00",
+      "venue": "Vicarage Road",
+      "FinalResult": "2-0",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "沃特福德"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "布莱顿"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 11,
+        "name": " Fulham",
+        "abbreviation": "FUL",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t54.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 12,
+        "name": "Crystal Palace",
+        "abbreviation": "CRY",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t31.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-11T10:00",
+      "venue": "Craven Cottage",
+      "FinalResult": "0-2",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "富勒姆"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "水晶宫"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 13,
+        "name": "Wolverhampton Wanderers",
+        "abbreviation": "WOL",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t39.svg",
+        "leagueId": 2,
+        "city": "Wolverhampton",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 14,
+        "name": "Everton",
+        "abbreviation": "EVE",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t11.svg",
+        "leagueId": 2,
+        "city": "Liverpool",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-11T12:30",
+      "venue": "Molineux Stadium",
+      "FinalResult": "2-2",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "狼队"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "埃弗顿"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 15,
+        "name": "Southampton",
+        "abbreviation": "SOU",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t20.svg",
+        "leagueId": 2,
+        "city": "Southampton",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 16,
+        "name": "Burnley",
+        "abbreviation": "BUR",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t90.svg",
+        "leagueId": 2,
+        "city": "Burnley",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-12T08:30",
+      "venue": "St. Mary's Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "南安普敦"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "伯恩利"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 17,
+        "name": "Liverpool",
+        "abbreviation": "LIV",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t14.svg",
+        "leagueId": 2,
+        "city": "Liverpool",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 18,
+        "name": "West Ham United",
+        "abbreviation": "WHU",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t21.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-12T8:30",
+      "venue": "Anfield",
+      "FinalResult": "4-0",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "利物浦"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "西汉姆联"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 19,
+        "name": "Arsenal",
+        "abbreviation": "ARS",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t3.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 20,
+        "name": "Manchester City",
+        "abbreviation": "MCI",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t43.svg",
+        "leagueId": 2,
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-12T11:00",
+      "venue": "Emirates Stadium",
+      "FinalResult": "0-2",
+      "playedStatus": "completed",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "阿森纳"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "曼彻斯特城"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 8,
+        "name": "Cardiff City",
+        "abbreviation": "CAR",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t97.svg",
+        "leagueId": 2,
+        "city": "Cardiff",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 3,
+        "name": "Newcastle United",
+        "abbreviation": "NEW",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t4.svg",
+        "leagueId": 2,
+        "city": "Newcastle",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-18T07:30",
+      "venue": "Cardiff City Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "卡迪夫城"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "纽卡斯尔联"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 4,
+        "name": "Tottenham Hotspur",
+        "abbreviation": "TOT",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t6.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 11,
+        "name": " Fulham",
+        "abbreviation": "FUL",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t54.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-18T10:00",
+      "venue": "Wembley Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "托特纳姆热刺"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "富勒姆"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 18,
+        "name": "West Ham United",
+        "abbreviation": "WHU",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t21.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 7,
+        "name": "AFC Bournemouth",
+        "abbreviation": "BOU",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t91.svg",
+        "leagueId": 2,
+        "city": "Bournemouth",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-18T10:00",
+      "venue": "London Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "西汉姆联"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "伯恩茅斯"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 2,
+        "name": "Leicester City",
+        "abbreviation": "LEI",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t13.svg",
+        "leagueId": 2,
+        "city": "Leicester",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 13,
+        "name": "Wolverhampton Wanderers",
+        "abbreviation": "WOL",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t39.svg",
+        "leagueId": 2,
+        "city": "Wolverhampton",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-18T10:00",
+      "venue": "King Power Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "莱斯特城"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "狼队"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 14,
+        "name": "Everton",
+        "abbreviation": "EVE",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t11.svg",
+        "leagueId": 2,
+        "city": "Liverpool",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 15,
+        "name": "Southampton",
+        "abbreviation": "SOU",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t20.svg",
+        "leagueId": 2,
+        "city": "Southampton",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-18T10:00",
+      "venue": "Goodison Park",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "埃弗顿"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "南安普敦"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 6,
+        "name": "Chelsea",
+        "abbreviation": "CHE",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t8.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 19,
+        "name": "Arsenal",
+        "abbreviation": "ARS",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t3.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-18T12:30",
+      "venue": "Stamford Bridge",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "切尔西"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "阿森纳"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 20,
+        "name": "Manchester City",
+        "abbreviation": "MCI",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t43.svg",
+        "leagueId": 2,
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 5,
+        "name": "Huddersfield Town",
+        "abbreviation": "HUD",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t38.svg",
+        "leagueId": 2,
+        "city": "Huddersfield",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-19T08:30",
+      "venue": "Etihad Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "曼彻斯特城"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "哈德斯菲尔德"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 16,
+        "name": "Burnley",
+        "abbreviation": "BUR",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t90.svg",
+        "leagueId": 2,
+        "city": "Burnley",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 9,
+        "name": "Watford",
+        "abbreviation": "WAT",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t57.svg",
+        "leagueId": 2,
+        "city": "Watford",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-19T08:30",
+      "venue": "Turf Moor",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "伯恩利"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "沃特福德"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 10,
+        "name": "Brighton and Hove Albion",
+        "abbreviation": "BHA",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t36.svg",
+        "leagueId": 2,
+        "city": "Brighton",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 1,
+        "name": "Manchester United",
+        "abbreviation": "MUN",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t1.svg",
+        "leagueId": 2,
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-19T11:00",
+      "venue": "Amex Stadium",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "伯恩利"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "曼彻斯特联"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "leagueId": 2,
+      "homeTeam": {
+        "id": 12,
+        "name": "Crystal Palace",
+        "abbreviation": "CRY",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t31.svg",
+        "leagueId": 2,
+        "city": "London",
+        "country": "UK"
+      },
+      "visitorTeam": {
+        "id": 17,
+        "name": "Liverpool",
+        "abbreviation": "LIV",
+        "logoUrl": "https://platform-static-files.s3.amazonaws.com/premierleague/badges/t14.svg",
+        "leagueId": 2,
+        "city": "Liverpool",
+        "country": "UK"
+      },
+      "startDateTime": "2018-08-20T15:00",
+      "venue": "Selhurst Park",
+      "FinalResult": "0-0",
+      "playedStatus": "noncompleted",
+      "homeTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "水晶宫"
+        }
+      ],
+      "vistorTeamNames": [
+        {
+          "languageCode": "zh",
+          "displayName": "利物浦"
+        }
+      ]
+    }
+  ]
+}

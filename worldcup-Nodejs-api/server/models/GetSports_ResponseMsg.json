@@ -1,0 +1,126 @@
+[
+  {
+    "id": "ea115b07-fee9-44c8-a136-0563f8b46e70",
+    "name": "National Basketball Association",
+    "abbreviation": "NBA",
+    "tags": [
+      "sports,basketball"
+    ],
+    "logoUrl": "http://content.sportslogos.net/logos/6/982/full/8147__national_basketball_association-primary-2018.png",
+    "country": "USA",
+    "names": [
+      {
+        "id": "d3ab4c7c7b5d42de8a439bade4e83e14",
+        "languageCode": "zh",
+        "displayName": "美国职业篮球联盟"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "551129a01f3e4ddfb76af01c7195d3c7",
+        "languageCode": "zh",
+        "displayName": "NBA"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "729ff8852c524864a399f61be7d6ac88",
+        "languageCode": "zh",
+        "displayName": "体育，篮球"
+      }
+    ]
+  },
+  {
+    "id": "dd23ceea94834b41a7ee72c92890fd4d",
+    "name": "English Premier League",
+    "abbreviation": "EPL",
+    "tags": [
+      "sports,soccer"
+    ],
+    "logoUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/03/27/17a97e33-a0e4-4aa2-aa6c-c4452ad7622e/PL_Purple_280X158.png",
+    "country": "United Kingdom",
+    "names": [
+      {
+        "id": "e3463dbe47c34128aa8f1e3e55064e02",
+        "languageCode": "zh",
+        "displayName": "英国足球超级联盟"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "ff901c2c414d4f5faffc3275fcc475df",
+        "languageCode": "zh",
+        "displayName": "EPL"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "9f6a4417e8bd4feeae77bc386f9556fb",
+        "languageCode": "zh",
+        "displayName": "体育，足球"
+      }
+    ]
+  },
+  {
+    "id": "7c6a501ff5064efba011d33d264f5ac9",
+    "name": "National Football League",
+    "abbreviation": "NFL",
+    "tags": [
+      "sports,football"
+    ],
+    "logoUrl": "http://content.sportslogos.net/logos/7/1007/full/dwuw5lojnwsj12vfe0hfa6z47.gif",
+    "country": "USA",
+    "names": [
+      {
+        "id": "f7f492a9603e46b4ac098193f5488887",
+        "languageCode": "zh",
+        "displayName": "美国职业橄榄球联盟"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "7b56ff94ec1543088b4b77ccce823402",
+        "languageCode": "zh",
+        "displayName": "NFL"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "4a0c56a2a4e1497bb09b6c73ac2508dc",
+        "languageCode": "zh",
+        "displayName": "体育，橄榄球"
+      }
+    ]
+  },
+  {
+    "id": "21b13a97ad354c8abcfd32ab6dc95388",
+    "name": "Italian Serie A",
+    "abbreviation": "Serie A",
+    "tags": [
+      "sports,soccer"
+    ],
+    "logoUrl": "http://www.legaseriea.it/assets/legaseriea/images/logo.png?v=3",
+    "country": "Italy",
+    "names": [
+      {
+        "id": "3fa9c0e9588a4063a52f3a949f810cbe",
+        "languageCode": "zh",
+        "displayName": "意大利足球甲级联赛"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "fa889f4dc92c4e009a19aeae01b7ef20",
+        "languageCode": "zh",
+        "displayName": "Serie A"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "936eccb3f0c94935af023b8b4ce9fd8b",
+        "languageCode": "zh",
+        "displayName": "体育，足球"
+      }
+    ]
+  }
+]

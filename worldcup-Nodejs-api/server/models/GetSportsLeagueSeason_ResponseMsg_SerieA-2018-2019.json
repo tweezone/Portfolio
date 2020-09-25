@@ -1,0 +1,1795 @@
+﻿[
+  {
+    "id": "21b13a97ad354c8abcfd32ab6dc95388",
+    "name": "Italian Serie A",
+    "abbreviation": "Serie A",
+    "tags": [
+      "sports,soccer"
+    ],
+    "logoUrl": "http://www.legaseriea.it/assets/legaseriea/images/logo.png?v=3",
+    "country": "Italy",
+    "names": [
+      {
+        "id": "3fa9c0e9588a4063a52f3a949f810cbe",
+        "languageCode": "zh",
+        "displayName": "意大利足球甲级联赛"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "fa889f4dc92c4e009a19aeae01b7ef20",
+        "languageCode": "zh",
+        "displayName": "Serie A"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "936eccb3f0c94935af023b8b4ce9fd8b",
+        "languageCode": "zh",
+        "displayName": "体育，足球"
+      }
+    ],
+    "games": [
+      {
+        "id": "96a4d90cd75041318672df8d2a2bc598",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "458da57861994313aa607d37474e837d",
+          "leagueAbbreviation": "Serie A",
+          "name": "CHIEVOVERONA",
+          "abbreviation": "CHV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4005/full/787_-cheivo_-primary-.gif",
+          "city": "Verona",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "5a586cc9df094e1692e20672bd3de04f",
+          "leagueAbbreviation": "Serie A",
+          "name": "JUVENTUS",
+          "abbreviation": "JUV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3997/full/4488__juventus-primary-2017.png",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-18T18:00-0400",
+        "venue": "MARCANTONIO BENTEGODI",
+        "city": "Verona",
+        "finalResult": "2-3",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "2e198ebc327947f68e2ec5e6da1b848e",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "a204de4d4c3c4e268c76becac599dd1c",
+          "leagueAbbreviation": "Serie A",
+          "name": "LAZIO",
+          "abbreviation": "LAZ",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4004/full/797_-lazio-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "d17bea62fab2490a92d778f9037a9dd4",
+          "leagueAbbreviation": "Serie A",
+          "name": "NAPOLI",
+          "abbreviation": "NEA",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3999/full/193_-napoli-primary-.gif",
+          "city": "Naples",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-18T20:30-0400",
+        "venue": "OLIMPICO",
+        "city": "Rome",
+        "finalResult": "1-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-18T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "8b1694242d73407b8d46c7cfb335d5f4",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "1804972f07334c34803515f465931fad",
+          "leagueAbbreviation": "Serie A",
+          "name": "TORINO",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3998/full/325_-torino_fc-primary-.gif",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "5c4037eebb50417e9bd5eb84e959cfdd",
+          "leagueAbbreviation": "Serie A",
+          "name": "ROMA",
+          "abbreviation": "ROM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3996/full/520_-as_roma-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-19T18:00-0400",
+        "venue": "OLIMPICO GRANDE TORINO",
+        "city": "Torino",
+        "finalResult": "0-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "81783ac3528a4c388effe4878675764f",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "26dda501f8ee41298d294b8a0d448189",
+          "leagueAbbreviation": "Serie A",
+          "name": "BOLOGNA",
+          "abbreviation": "BOL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3995/full/758_-bologna-primary-.gif",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "6760694e2d084ba489504940073792f4",
+          "leagueAbbreviation": "Serie A",
+          "name": "SPAL",
+          "abbreviation": "SPA",
+          "logoUrl": "https://www.vectorportal.com/img_novi/spal-labor-fc.jpg",
+          "city": "Ferrara",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-19T20:30-0400",
+        "venue": "RENATO DALL'ARA",
+        "city": "Bologna",
+        "finalResult": "0-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "fa1e0e3a2dfd4639aa800915d1c3b75b",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "b49e3e3acc594d14a3dd9cca59e3c53f",
+          "leagueAbbreviation": "Serie A",
+          "name": "EMPOLI",
+          "abbreviation": "EMP",
+          "logoUrl": "https://www.seeklogo.net/wp-content/uploads/2015/09/empoli-fc-logo-vector-download.jpg",
+          "city": "Empoli",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "0e3ba786d7c6438d9d4354603778430e",
+          "leagueAbbreviation": "Serie A",
+          "name": "CAGLIARI",
+          "abbreviation": "CAG",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4007/full/782_-cagliari-primary-.gif",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-19T20:30-0400",
+        "venue": "CARLO CASTELLANI",
+        "city": "Empoli",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "1fa00b71d33241f5bc512cf9e5193bb6",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "1d6f81bc128b41759d300d5555235ac3",
+          "leagueAbbreviation": "Serie A",
+          "name": "PARMA",
+          "abbreviation": "PRM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4002/full/120_-parma-primary-.gif",
+          "city": "Parma",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "22ea9d7d58714f0db4b16aa6be8bdcfd",
+          "leagueAbbreviation": "Serie A",
+          "name": "UDINESE",
+          "abbreviation": "UDI",
+          "logoUrl": "https://www.vectorportal.com/img_novi/udinese_4391.jpg",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-19T20:30-0400",
+        "venue": "ENNIO TARDINI",
+        "city": "Parma",
+        "finalResult": "2-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "0e42ea6ec0d7478e9fb4627b224594af",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "fdf1f40d4cad4beb84254364fc2a4472",
+          "leagueAbbreviation": "Serie A",
+          "name": "SASSUOLO",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/128/5870/full/5375_us_sassuolo-primary-0.png",
+          "city": "Sassuolo",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "8d362341a5ec4457b6bd6aa7a3dc4d24",
+          "leagueAbbreviation": "Serie A",
+          "name": "INTERNAZIONALE MILAN",
+          "abbreviation": "INT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3993/full/367_milan-internazionale_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-19T20:30-0400",
+        "venue": "MAPEI STADIUM",
+        "city": "Reggio Emilia",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-19T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "f0060e22971141d48a83af9cd502ceba",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "3490d6ecec154b21aec83546249bf6c4",
+          "leagueAbbreviation": "Serie A",
+          "name": "ATALANTA",
+          "abbreviation": "ATT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4008/full/200_-atalanta-primary-.gif",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "8a332f6906d1425e9961f4d7cb269288",
+          "leagueAbbreviation": "Serie A",
+          "name": "FROSINONE",
+          "abbreviation": "FRO",
+          "logoUrl": "https://www.vectorportal.com/img_novi/frosinone_4352.jpg",
+          "city": "Frosinone",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-20T20:30-0400",
+        "venue": "ATLETI AZZURRI D'ITALIA",
+        "city": "Bergamo",
+        "finalResult": "4-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-20T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "b6f236db83e74403b25aec922cd93094",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "c41217f2695d4b4f899bae2f0e7bbc3d",
+          "leagueAbbreviation": "Serie A",
+          "name": "SAMPDORIA",
+          "abbreviation": "SAM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4009/full/317_-sampdoria-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "174e164f88ad458fa833e5a6a0f31e61",
+          "leagueAbbreviation": "Serie A",
+          "name": "FIORENTINA",
+          "abbreviation": "FIO",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4011/full/238_-fiorentina-primary-.gif",
+          "city": "Florence",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-19T19:00-0400",
+        "venue": "LUIGI FERRARIS",
+        "city": "Genoa",
+        "finalResult": "1-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-19T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "99c8d0a1095e41989f091fc53a26e4e3",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "dfad3550688a4696b05f1e7f7a2e102d",
+          "leagueAbbreviation": "Serie A",
+          "name": "AC MILAN",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3992/full/131_-ac_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "765fe47dd2464f5fb76979d53e4bc305",
+          "leagueAbbreviation": "Serie A",
+          "name": "GENOA",
+          "abbreviation": "GEN",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3994/full/116_-genoa-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-10-31T20:30-0400",
+        "venue": "GIUSEPPE MEAZZA",
+        "city": "Milano",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-10-31T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "d5697a142be7456a8335396266c17309",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "5a586cc9df094e1692e20672bd3de04f",
+          "leagueAbbreviation": "Serie A",
+          "name": "JUVENTUS",
+          "abbreviation": "JUV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3997/full/4488__juventus-primary-2017.png",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "a204de4d4c3c4e268c76becac599dd1c",
+          "leagueAbbreviation": "Serie A",
+          "name": "LAZIO",
+          "abbreviation": "LAZ",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4004/full/797_-lazio-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-25T18:00-0400",
+        "venue": "ALLIANZ STADIUM",
+        "city": "Torino",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-25T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "3d03194918944c9d9b5445e5bde0ee92",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "d17bea62fab2490a92d778f9037a9dd4",
+          "leagueAbbreviation": "Serie A",
+          "name": "NAPOLI",
+          "abbreviation": "NEA",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3999/full/193_-napoli-primary-.gif",
+          "city": "Naples",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "dfad3550688a4696b05f1e7f7a2e102d",
+          "leagueAbbreviation": "Serie A",
+          "name": "AC MILAN",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3992/full/131_-ac_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-25T20:30-0400",
+        "venue": "SAN PAOLO",
+        "city": "Napoli",
+        "finalResult": "3-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-25T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "7d8334311e604e5d9868896c9cf87bc9",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "6760694e2d084ba489504940073792f4",
+          "leagueAbbreviation": "Serie A",
+          "name": "SPAL",
+          "abbreviation": "SPA",
+          "logoUrl": "https://www.vectorportal.com/img_novi/spal-labor-fc.jpg",
+          "city": "Ferrara",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "1d6f81bc128b41759d300d5555235ac3",
+          "leagueAbbreviation": "Serie A",
+          "name": "PARMA",
+          "abbreviation": "PRM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4002/full/120_-parma-primary-.gif",
+          "city": "Parma",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T18:00-0400",
+        "venue": "RENATO DALL'ARA",
+        "city": "Bologna",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "a4be5b6dc49449bdbd1a75a289e9ad92",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "0e3ba786d7c6438d9d4354603778430e",
+          "leagueAbbreviation": "Serie A",
+          "name": "CAGLIARI",
+          "abbreviation": "CAG",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4007/full/782_-cagliari-primary-.gif",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "fdf1f40d4cad4beb84254364fc2a4472",
+          "leagueAbbreviation": "Serie A",
+          "name": "SASSUOLO",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/128/5870/full/5375_us_sassuolo-primary-0.png",
+          "city": "Sassuolo",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T20:30-0400",
+        "venue": "SARDEGNA ARENA",
+        "city": "Cagliari",
+        "finalResult": "2-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "00a96fecba7c4fb8a179bd952c678956",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "174e164f88ad458fa833e5a6a0f31e61",
+          "leagueAbbreviation": "Serie A",
+          "name": "FIORENTINA",
+          "abbreviation": "FIO",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4011/full/238_-fiorentina-primary-.gif",
+          "city": "Florence",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "458da57861994313aa607d37474e837d",
+          "leagueAbbreviation": "Serie A",
+          "name": "CHIEVOVERONA",
+          "abbreviation": "CHV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4005/full/787_-cheivo_-primary-.gif",
+          "city": "Verona",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T20:30-0400",
+        "venue": "ARTEMIO FRANCHI",
+        "city": "Firenze",
+        "finalResult": "6-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 8000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "fbf071fcc0fb45e6b93187001cd383ee",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "8a332f6906d1425e9961f4d7cb269288",
+          "leagueAbbreviation": "Serie A",
+          "name": "FROSINONE",
+          "abbreviation": "FRO",
+          "logoUrl": "https://www.vectorportal.com/img_novi/frosinone_4352.jpg",
+          "city": "Frosinone",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "26dda501f8ee41298d294b8a0d448189",
+          "leagueAbbreviation": "Serie A",
+          "name": "BOLOGNA",
+          "abbreviation": "BOL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3995/full/758_-bologna-primary-.gif",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T20:30-0400",
+        "venue": "OLIMPICO GRANDE TORINO",
+        "city": "Torino",
+        "finalResult": "0-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "1cbcc913d43147f18a3fc741768c6ff4",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "765fe47dd2464f5fb76979d53e4bc305",
+          "leagueAbbreviation": "Serie A",
+          "name": "GENOA",
+          "abbreviation": "GEN",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3994/full/116_-genoa-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "b49e3e3acc594d14a3dd9cca59e3c53f",
+          "leagueAbbreviation": "Serie A",
+          "name": "EMPOLI",
+          "abbreviation": "EMP",
+          "logoUrl": "https://www.seeklogo.net/wp-content/uploads/2015/09/empoli-fc-logo-vector-download.jpg",
+          "city": "Empoli",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T20:30-0400",
+        "venue": "LUIGI FERRARIS",
+        "city": "Genova",
+        "finalResult": "2-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "011ac5e4635d4ad4a99319453a74cb81",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "8d362341a5ec4457b6bd6aa7a3dc4d24",
+          "leagueAbbreviation": "Serie A",
+          "name": "INTERNAZIONALE MILAN",
+          "abbreviation": "INT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3993/full/367_milan-internazionale_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "1804972f07334c34803515f465931fad",
+          "leagueAbbreviation": "Serie A",
+          "name": "TORINO",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3998/full/325_-torino_fc-primary-.gif",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T20:30-0400",
+        "venue": "GIUSEPPE MEAZZA",
+        "city": "Milan",
+        "finalResult": "2-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "53f4eac0f8be444fade9e1f85849ff5d",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "22ea9d7d58714f0db4b16aa6be8bdcfd",
+          "leagueAbbreviation": "Serie A",
+          "name": "UDINESE",
+          "abbreviation": "UDI",
+          "logoUrl": "https://www.vectorportal.com/img_novi/udinese_4391.jpg",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "c41217f2695d4b4f899bae2f0e7bbc3d",
+          "leagueAbbreviation": "Serie A",
+          "name": "SAMPDORIA",
+          "abbreviation": "SAM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4009/full/317_-sampdoria-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-26T20:30-0400",
+        "venue": "FRIULI DENOMINAZIONE COMMERCIALE 'DACIA ARENA'",
+        "city": "Udine",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-26T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "d6546a4dc27b4691af5fd4e3b9fc656b",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "5c4037eebb50417e9bd5eb84e959cfdd",
+          "leagueAbbreviation": "Serie A",
+          "name": "ROMA",
+          "abbreviation": "ROM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3996/full/520_-as_roma-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "3490d6ecec154b21aec83546249bf6c4",
+          "leagueAbbreviation": "Serie A",
+          "name": "ATALANTA",
+          "abbreviation": "ATT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4008/full/200_-atalanta-primary-.gif",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-27T20:30-0400",
+        "venue": "OLIMPICO",
+        "city": "Roma",
+        "finalResult": "3-3",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-27T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "5239605d50454883a5aa1e79ce6483c6",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "dfad3550688a4696b05f1e7f7a2e102d",
+          "leagueAbbreviation": "Serie A",
+          "name": "AC MILAN",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3992/full/131_-ac_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "5c4037eebb50417e9bd5eb84e959cfdd",
+          "leagueAbbreviation": "Serie A",
+          "name": "ROMA",
+          "abbreviation": "ROM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3996/full/520_-as_roma-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-08-31T20:30-0400",
+        "venue": "GIUSEPPE MEAZZA",
+        "city": "Milano",
+        "finalResult": "2-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-08-31T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "fd007c70a087497e9f6f1ab4db74c51c",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "26dda501f8ee41298d294b8a0d448189",
+          "leagueAbbreviation": "Serie A",
+          "name": "BOLOGNA",
+          "abbreviation": "BOL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3995/full/758_-bologna-primary-.gif",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "8d362341a5ec4457b6bd6aa7a3dc4d24",
+          "leagueAbbreviation": "Serie A",
+          "name": "INTERNAZIONALE MILAN",
+          "abbreviation": "INT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3993/full/367_milan-internazionale_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-01T18:00-0400",
+        "venue": "RENATO DALL'ARA",
+        "city": "Bologna",
+        "finalResult": "0-3",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-01T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "8cf259cce2f8436fb0ac9272fe0869fe",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "1d6f81bc128b41759d300d5555235ac3",
+          "leagueAbbreviation": "Serie A",
+          "name": "PARMA",
+          "abbreviation": "PRM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4002/full/120_-parma-primary-.gif",
+          "city": "Parma",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "5a586cc9df094e1692e20672bd3de04f",
+          "leagueAbbreviation": "Serie A",
+          "name": "JUVENTUS",
+          "abbreviation": "JUV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3997/full/4488__juventus-primary-2017.png",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-01T20:30-0400",
+        "venue": "ENNIO TARDINI",
+        "city": "Parma",
+        "finalResult": "1-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-01T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "6810c8b0e28a482ba9f745caf14e30c3",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "174e164f88ad458fa833e5a6a0f31e61",
+          "leagueAbbreviation": "Serie A",
+          "name": "FIORENTINA",
+          "abbreviation": "FIO",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4011/full/238_-fiorentina-primary-.gif",
+          "city": "Florence",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "22ea9d7d58714f0db4b16aa6be8bdcfd",
+          "leagueAbbreviation": "Serie A",
+          "name": "UDINESE",
+          "abbreviation": "UDI",
+          "logoUrl": "https://www.vectorportal.com/img_novi/udinese_4391.jpg",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T18:00-0400",
+        "venue": "ARTEMIO FRANCHI",
+        "city": "Firenze",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "ce4f2975bf5c4716872a203dcea107b9",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "3490d6ecec154b21aec83546249bf6c4",
+          "leagueAbbreviation": "Serie A",
+          "name": "ATALANTA",
+          "abbreviation": "ATT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4008/full/200_-atalanta-primary-.gif",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "0e3ba786d7c6438d9d4354603778430e",
+          "leagueAbbreviation": "Serie A",
+          "name": "CAGLIARI",
+          "abbreviation": "CAG",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4007/full/782_-cagliari-primary-.gif",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T20:30-0400",
+        "venue": "ATLETI AZZURRI D'ITALIA",
+        "city": "Bergamo",
+        "finalResult": "0-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "321e8b1a90054a81ad8daa001a807f64",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "458da57861994313aa607d37474e837d",
+          "leagueAbbreviation": "Serie A",
+          "name": "CHIEVOVERONA",
+          "abbreviation": "CHV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4005/full/787_-cheivo_-primary-.gif",
+          "city": "Verona",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "b49e3e3acc594d14a3dd9cca59e3c53f",
+          "leagueAbbreviation": "Serie A",
+          "name": "EMPOLI",
+          "abbreviation": "EMP",
+          "logoUrl": "https://www.seeklogo.net/wp-content/uploads/2015/09/empoli-fc-logo-vector-download.jpg",
+          "city": "Empoli",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T20:30-0400",
+        "venue": "MARCANTONIO BENTEGODI",
+        "city": "Verona",
+        "finalResult": "0-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "5908b5858dce47309ab72cf9d898c081",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "a204de4d4c3c4e268c76becac599dd1c",
+          "leagueAbbreviation": "Serie A",
+          "name": "LAZIO",
+          "abbreviation": "LAZ",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4004/full/797_-lazio-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "8a332f6906d1425e9961f4d7cb269288",
+          "leagueAbbreviation": "Serie A",
+          "name": "FROSINONE",
+          "abbreviation": "FRO",
+          "logoUrl": "https://www.vectorportal.com/img_novi/frosinone_4352.jpg",
+          "city": "Frosinone",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T20:30-0400",
+        "venue": "OLIMPICO",
+        "city": "Roma",
+        "finalResult": "0-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "327acab47b4e48b39d46c357848decff",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "c41217f2695d4b4f899bae2f0e7bbc3d",
+          "leagueAbbreviation": "Serie A",
+          "name": "SAMPDORIA",
+          "abbreviation": "SAM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4009/full/317_-sampdoria-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "d17bea62fab2490a92d778f9037a9dd4",
+          "leagueAbbreviation": "Serie A",
+          "name": "NAPOLI",
+          "abbreviation": "NEA",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3999/full/193_-napoli-primary-.gif",
+          "city": "Naples",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T20:30-0400",
+        "venue": "LUIGI FERRARIS",
+        "city": "Genova",
+        "finalResult": "3-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "ad3751bcaa134922aa95aa42e32036e2",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "fdf1f40d4cad4beb84254364fc2a4472",
+          "leagueAbbreviation": "Serie A",
+          "name": "SASSUOLO",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/128/5870/full/5375_us_sassuolo-primary-0.png",
+          "city": "Sassuolo",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "765fe47dd2464f5fb76979d53e4bc305",
+          "leagueAbbreviation": "Serie A",
+          "name": "GENOA",
+          "abbreviation": "GEN",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3994/full/116_-genoa-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T20:30-0400",
+        "venue": "MAPEI STADIUM",
+        "city": "Reggio Emilia",
+        "finalResult": "5-3",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "0caef29a47044084867b847c5b19b1c2",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "1804972f07334c34803515f465931fad",
+          "leagueAbbreviation": "Serie A",
+          "name": "TORINO",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3998/full/325_-torino_fc-primary-.gif",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "6760694e2d084ba489504940073792f4",
+          "leagueAbbreviation": "Serie A",
+          "name": "SPAL",
+          "abbreviation": "SPA",
+          "logoUrl": "https://www.vectorportal.com/img_novi/spal-labor-fc.jpg",
+          "city": "Ferrara",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-02T20:30-0400",
+        "venue": "OLIMPICO GRANDE TORINO",
+        "city": "Torino",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-02T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "76a02f882da94293a36e10945191f775",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "8d362341a5ec4457b6bd6aa7a3dc4d24",
+          "leagueAbbreviation": "Serie A",
+          "name": "INTERNAZIONALE MILAN",
+          "abbreviation": "INT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3993/full/367_milan-internazionale_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "1d6f81bc128b41759d300d5555235ac3",
+          "leagueAbbreviation": "Serie A",
+          "name": "PARMA",
+          "abbreviation": "PRM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4002/full/120_-parma-primary-.gif",
+          "city": "Parma",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-15T15:00-0400",
+        "venue": "GIUSEPPE MEAZZA",
+        "city": "Milano",
+        "finalResult": "0-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-15T14:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "0e9d65cf216f41dabba1824347d4af1b",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "d17bea62fab2490a92d778f9037a9dd4",
+          "leagueAbbreviation": "Serie A",
+          "name": "NAPOLI",
+          "abbreviation": "NEA",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3999/full/193_-napoli-primary-.gif",
+          "city": "Naples",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "174e164f88ad458fa833e5a6a0f31e61",
+          "leagueAbbreviation": "Serie A",
+          "name": "FIORENTINA",
+          "abbreviation": "FIO",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4011/full/238_-fiorentina-primary-.gif",
+          "city": "Florence",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-15T18:00-0400",
+        "venue": "SAN PAOLO",
+        "city": "Napoli",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-15T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "56553484ee334c56afe328463a8e7ed2",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "8a332f6906d1425e9961f4d7cb269288",
+          "leagueAbbreviation": "Serie A",
+          "name": "FROSINONE",
+          "abbreviation": "FRO",
+          "logoUrl": "https://www.vectorportal.com/img_novi/frosinone_4352.jpg",
+          "city": "Frosinone",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "c41217f2695d4b4f899bae2f0e7bbc3d",
+          "leagueAbbreviation": "Serie A",
+          "name": "SAMPDORIA",
+          "abbreviation": "SAM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4009/full/317_-sampdoria-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-15T20:30-0400",
+        "venue": "BENITO STIRPE",
+        "city": "Frosinone",
+        "finalResult": "0-5",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-15T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "9fc59abbf9ea40529aa657fef7a669cd",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "5c4037eebb50417e9bd5eb84e959cfdd",
+          "leagueAbbreviation": "Serie A",
+          "name": "ROMA",
+          "abbreviation": "ROM",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3996/full/520_-as_roma-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "458da57861994313aa607d37474e837d",
+          "leagueAbbreviation": "Serie A",
+          "name": "CHIEVOVERONA",
+          "abbreviation": "CHV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4005/full/787_-cheivo_-primary-.gif",
+          "city": "Verona",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-16T12:30-0400",
+        "venue": "OLIMPICO",
+        "city": "Roma",
+        "finalResult": "2-2",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-16T12:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "eac199847fc448c18b5666625225302c",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "765fe47dd2464f5fb76979d53e4bc305",
+          "leagueAbbreviation": "Serie A",
+          "name": "GENOA",
+          "abbreviation": "GEN",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3994/full/116_-genoa-primary-.gif",
+          "city": "Genoa",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "26dda501f8ee41298d294b8a0d448189",
+          "leagueAbbreviation": "Serie A",
+          "name": "BOLOGNA",
+          "abbreviation": "BOL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3995/full/758_-bologna-primary-.gif",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-16T15:00-0400",
+        "venue": "LUIGI FERRARIS",
+        "city": "Genova",
+        "finalResult": "1-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-16T14:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "d0a200a314404101913c14bb909a1090",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "5a586cc9df094e1692e20672bd3de04f",
+          "leagueAbbreviation": "Serie A",
+          "name": "JUVENTUS",
+          "abbreviation": "JUV",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3997/full/4488__juventus-primary-2017.png",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "fdf1f40d4cad4beb84254364fc2a4472",
+          "leagueAbbreviation": "Serie A",
+          "name": "SASSUOLO",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/128/5870/full/5375_us_sassuolo-primary-0.png",
+          "city": "Sassuolo",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-16T15:00-0400",
+        "venue": "ALLIANZ STADIUM",
+        "city": "Torino",
+        "finalResult": "2-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-16T14:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "cb91daa27d7040828938248f74c7d698",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "22ea9d7d58714f0db4b16aa6be8bdcfd",
+          "leagueAbbreviation": "Serie A",
+          "name": "UDINESE",
+          "abbreviation": "UDI",
+          "logoUrl": "https://www.vectorportal.com/img_novi/udinese_4391.jpg",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "1804972f07334c34803515f465931fad",
+          "leagueAbbreviation": "Serie A",
+          "name": "TORINO",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3998/full/325_-torino_fc-primary-.gif",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-16T15:00-0400",
+        "venue": "FRIULI DENOMINAZIONE COMMERCIALE 'DACIA ARENA'",
+        "city": "Udine",
+        "finalResult": "1-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-16T14:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "97eccdda334445b999a069ca47f893a0",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "b49e3e3acc594d14a3dd9cca59e3c53f",
+          "leagueAbbreviation": "Serie A",
+          "name": "EMPOLI",
+          "abbreviation": "EMP",
+          "logoUrl": "https://www.seeklogo.net/wp-content/uploads/2015/09/empoli-fc-logo-vector-download.jpg",
+          "city": "Empoli",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "a204de4d4c3c4e268c76becac599dd1c",
+          "leagueAbbreviation": "Serie A",
+          "name": "LAZIO",
+          "abbreviation": "LAZ",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4004/full/797_-lazio-primary-.gif",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-16T18:00-0400",
+        "venue": "CARLO CASTELLANI",
+        "city": "Empoli",
+        "finalResult": "0-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-16T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "f924d472074d49b586907e5bbf4c30dd",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "0e3ba786d7c6438d9d4354603778430e",
+          "leagueAbbreviation": "Serie A",
+          "name": "CAGLIARI",
+          "abbreviation": "CAG",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4007/full/782_-cagliari-primary-.gif",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "dfad3550688a4696b05f1e7f7a2e102d",
+          "leagueAbbreviation": "Serie A",
+          "name": "AC MILAN",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/128/3992/full/131_-ac_milan-primary-.gif",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-16T20:30-0400",
+        "venue": "SARDEGNA ARENA",
+        "city": "Cagliari",
+        "finalResult": "1-1",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-16T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "14c07574cb004dcb9f2257d38502f71a",
+        "leagueAbbreviation": "Serie A",
+        "season": "2018-2019",
+        "home": {
+          "id": "6760694e2d084ba489504940073792f4",
+          "leagueAbbreviation": "Serie A",
+          "name": "SPAL",
+          "abbreviation": "SPA",
+          "logoUrl": "https://www.vectorportal.com/img_novi/spal-labor-fc.jpg",
+          "city": "Ferrara",
+          "country": "Italy"
+        },
+        "visitor": {
+          "id": "3490d6ecec154b21aec83546249bf6c4",
+          "leagueAbbreviation": "Serie A",
+          "name": "ATALANTA",
+          "abbreviation": "ATT",
+          "logoUrl": "http://content.sportslogos.net/logos/128/4008/full/200_-atalanta-primary-.gif",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        "startDateTime": "2018-09-17T20:30-0400",
+        "venue": "PAOLO MAZZA",
+        "city": "Ferrara",
+        "finalResult": "2-0",
+        "playedStatus": "completed",
+        "betStartTime": "2018-08-01T00:00-0400",
+        "betEndTime": "2018-09-17T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      }
+    ]
+  }
+]

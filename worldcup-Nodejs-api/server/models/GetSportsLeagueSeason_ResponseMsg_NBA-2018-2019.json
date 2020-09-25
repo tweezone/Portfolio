@@ -1,0 +1,1795 @@
+﻿[
+  {
+    "id": "ea115b07-fee9-44c8-a136-0563f8b46e70",
+    "name": "National Basketball Association",
+    "abbreviation": "NBA",
+    "tags": [
+      "sports,basketball"
+    ],
+    "logoUrl": "http://content.sportslogos.net/logos/6/982/full/8147__national_basketball_association-primary-2018.png",
+    "country": "USA",
+    "names": [
+      {
+        "id": "d3ab4c7c7b5d42de8a439bade4e83e14",
+        "languageCode": "zh",
+        "displayName": "美国职业篮球联盟"
+      }
+    ],
+    "abbreviations": [
+      {
+        "id": "551129a01f3e4ddfb76af01c7195d3c7",
+        "languageCode": "zh",
+        "displayName": "NBA"
+      }
+    ],
+    "tagsLanguages": [
+      {
+        "id": "729ff8852c524864a399f61be7d6ac88",
+        "languageCode": "zh",
+        "displayName": "体育，篮球"
+      }
+    ],
+    "games": [
+      {
+        "id": "8d4bb3a7e8874626b1ff42e0ca63517b",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "8b84663127ba422a99bb05f59efdc2ba",
+          "leagueAbbreviation": "NBA",
+          "name": "BOSTON CELTICS",
+          "abbreviation": "BOS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/213/full/slhg02hbef3j1ov4lsnwyol5o.png",
+          "city": "Boston",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "7b93b62bad7948d88590789da107aca2",
+          "leagueAbbreviation": "NBA",
+          "name": "PHILADELPHIA 76ERS",
+          "abbreviation": "PHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png",
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-16T20:00-0400",
+        "venue": "TD Garden",
+        "city": "Boston",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-16T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "a176d69befa7469eb15f64d2e4eef8bd",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "4c4b94f2be6044f1a689d25246d90fbd",
+          "leagueAbbreviation": "NBA",
+          "name": "GOLDEN STATE WARRIORS",
+          "abbreviation": "GSW",
+          "logoUrl": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png",
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "8aa6b6f45aeb49089a8aec69ab515a8d",
+          "leagueAbbreviation": "NBA",
+          "name": "OKLAHOMA CITY THUNDER",
+          "abbreviation": "OKC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/2687/full/khmovcnezy06c3nm05ccn0oj2.png",
+          "city": "Oklahoma City",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-16T22:30-0400",
+        "venue": "ORACLE Arena",
+        "city": "Oakland",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-16T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "5b1852ac936048169193b1d8c9ab95e6",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "b171a01373fc46bab93d5ce96f8f88c1",
+          "leagueAbbreviation": "NBA",
+          "name": "CHARLOTTE HORNETS",
+          "abbreviation": "CHA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/5120/full/1926_charlotte__hornets_-primary-2015.png",
+          "city": "Charlotte",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "df8c8cbf88a74a609ab8d91c37f16016",
+          "leagueAbbreviation": "NBA",
+          "name": "MILWAUKEE BUCKS",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/225/full/8275_milwaukee_bucks-primary-2016.png",
+          "city": "Milwaukee",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T19:00-0400",
+        "venue": "Spectrum Center",
+        "city": "Charlotte",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 6000
+          }
+        ]
+      },
+      {
+        "id": "eebd68f6c7c74a0a94d8d2adcd6865c7",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "b12ddf75ecf842248e99475cb6c7d8ac",
+          "leagueAbbreviation": "NBA",
+          "name": "DETROIT PISTONS",
+          "abbreviation": "DET",
+          "logoUrl": "http://content.sportslogos.net/logos/6/223/full/2164_detroit_pistons-primary-2018.png",
+          "city": "Detroit",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "c69562151e7c40f6a22a3a713a19df81",
+          "leagueAbbreviation": "NBA",
+          "name": "BROOKLYN NETS",
+          "abbreviation": "BKN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/3786/full/137_brooklyn-nets-primary-2013.png",
+          "city": "Brooklyn",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T19:00-0400",
+        "venue": "Little Caesars Arena",
+        "city": "Detroit",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "d032cf4befd1433f8e6bc00d19210ef0",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "019a5ca133b243618c3c87573a8c7f46",
+          "leagueAbbreviation": "NBA",
+          "name": "INDIANA PACERS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "657b4360c7d546dc9fe40588acc1bbb9",
+          "leagueAbbreviation": "NBA",
+          "name": "MEMPHIS GRIZZLIES",
+          "abbreviation": "MEM",
+          "logoUrl": "http://content.sportslogos.net/logos/6/231/full/793.png",
+          "city": "Memphis",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T19:00-0400",
+        "venue": "Bankers Life Fieldhouse",
+        "city": "Indianapolis",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "d42c081da84342118c3cf97508b5ca2e",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "242eff53bf7e4921970e3085de749170",
+          "leagueAbbreviation": "NBA",
+          "name": "ORLANDO MAGIC",
+          "abbreviation": "ORL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/217/full/wd9ic7qafgfb0yxs7tem7n5g4.gif",
+          "city": "Orlando",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "6cf75b769c834c0c9f0249e637cabcd1",
+          "leagueAbbreviation": "NBA",
+          "name": "MIAMI HEAT",
+          "abbreviation": "MIA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif",
+          "city": "Miami",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T19:00-0400",
+        "venue": "Amway Center",
+        "city": "Orlando",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "abac8a24641746b989a956024d5693b4",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "c01ba56aaa4c41378dc709e9904842dd",
+          "leagueAbbreviation": "NBA",
+          "name": "NEW YORK KNICKS",
+          "abbreviation": "NYK",
+          "logoUrl": "http://content.sportslogos.net/logos/6/216/full/2nn48xofg0hms8k326cqdmuis.gif",
+          "city": "New York City",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "4116dbbcf32047f39ea539ceea31a242",
+          "leagueAbbreviation": "NBA",
+          "name": "ATLANTA HAWKS",
+          "abbreviation": "ATL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/220/full/9168_atlanta_hawks-primary-2016.png",
+          "city": "Atlanta",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T19:30-0400",
+        "venue": "Madison Square Garden",
+        "city": "New York City",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "bb8c95a4d67d46a3b56b6a6e00d51040",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "546c3d64fa684c0bb691a9a12401ed1c",
+          "leagueAbbreviation": "NBA",
+          "name": "TORONTO RAPTORS",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/227/full/4578_toronto_raptors-primary-2016.png",
+          "city": "Toronto",
+          "country": "CANADA"
+        },
+        "visitor": {
+          "id": "b8a0b50c9caf4ed1a2c75c0b8f296bcd",
+          "leagueAbbreviation": "NBA",
+          "name": "CLEVELAND CAVALIERS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/6/222/full/6921_cleveland_cavaliers-primary-2018.png",
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T19:30-0400",
+        "venue": "Scotiabank Arena",
+        "city": "Toronto",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "1a232661f9e447c6ab525605ce209dea",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "37989ab8520243cfa29c6d6bdd90c648",
+          "leagueAbbreviation": "NBA",
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "city": "Houston",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "f1604f20791a49fd989f88b683d08e2c",
+          "leagueAbbreviation": "NBA",
+          "name": "NEW ORLEANS PELICANS",
+          "abbreviation": "NOP",
+          "logoUrl": "http://content.sportslogos.net/logos/6/4962/full/2681_new_orleans_pelicans-primary-2014.png",
+          "city": "New Orleans",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T20:00-0400",
+        "venue": "Toyota Center",
+        "city": "Houston",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 1000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "d73f9cc7517e48f7bb39cfb4e0f8d57d",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "6e406ee65d5a4c7da75c19cee47ba7e6",
+          "leagueAbbreviation": "NBA",
+          "name": "SAN ANTONIO SPURS",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/233/full/2547_san_antonio_spurs-primary-2018.png",
+          "city": "San Antonio",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "f6228d44cd214e9aaf9c1cffbab434c0",
+          "leagueAbbreviation": "NBA",
+          "name": "MINNESOTA TIMBERWOLVES",
+          "abbreviation": "MIN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/232/full/9669_minnesota_timberwolves-primary-2018.png",
+          "city": "Minneapolis",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T20:30-0400",
+        "venue": "AT&T Center",
+        "city": "San Antonio",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "4d4109aa0fbd460eb04433fa42102a81",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "48463dc9b0924ab490ee198867ed1238",
+          "leagueAbbreviation": "NBA",
+          "name": "SACRAMENTO KINGS",
+          "abbreviation": "SAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png",
+          "city": "Sacramento",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "080dd2f05e59403882c4518335a357a7",
+          "leagueAbbreviation": "NBA",
+          "name": "UTAH JAZZ",
+          "abbreviation": "UTA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/234/full/6749_utah_jazz-primary-2017.png",
+          "city": "Salt Lake City",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T22:00-0400",
+        "venue": "Golden 1 Center",
+        "city": "Sacramento",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T21:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "2815d8c17c9042f0bcba4caf732283a0",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "e71bc776f2384363b2806e106d694286",
+          "leagueAbbreviation": "NBA",
+          "name": "LOS ANGELES CLIPPERS",
+          "abbreviation": "LAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/236/full/5462_los_angeles_clippers-primary-2016.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "baae182d4ed64a16b7a8c51051a72ee9",
+          "leagueAbbreviation": "NBA",
+          "name": "DENVER NUGGETS",
+          "abbreviation": "DEN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png",
+          "city": "Denver",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T22:30-0400",
+        "venue": "Staples Center",
+        "city": "Los Angeles",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "dab04f97ef0246959b20b62e0094bd27",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "427883321ff5482686e0b3529d90797a",
+          "leagueAbbreviation": "NBA",
+          "name": "PHOENIX SUNS",
+          "abbreviation": "PHX",
+          "logoUrl": "http://content.sportslogos.net/logos/6/238/full/4370_phoenix_suns-primary-2014.png",
+          "city": "Phpenix",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "ca40f138323e41d2a52df920d9c254fe",
+          "leagueAbbreviation": "NBA",
+          "name": "DALLAS MAVERICKS",
+          "abbreviation": "DAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png",
+          "city": "Dallas",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-17T22:30-0400",
+        "venue": "Talking Stick Resort Arena",
+        "city": "Phpenix",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-17T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "99defc93b054429694133d46dec4ba0b",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "7b93b62bad7948d88590789da107aca2",
+          "leagueAbbreviation": "NBA",
+          "name": "PHILADELPHIA 76ERS",
+          "abbreviation": "PHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png",
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "7061a08d76824a2bb2ba7b8e53d56c0a",
+          "leagueAbbreviation": "NBA",
+          "name": "CHICAGO BULLS",
+          "abbreviation": "CHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/221/full/hj3gmh82w9hffmeh3fjm5h874.png",
+          "city": "Chicago",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-18T20:00-0400",
+        "venue": "Wells Fargo Center",
+        "city": "Philadelphia",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-18T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "44d8059f7c644f4981610e058d91c0e1",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "78321e2169514591937f681eb8f52aa6",
+          "leagueAbbreviation": "NBA",
+          "name": "WASHINGTON WIZARDS",
+          "abbreviation": "WAS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/219/full/5671_washington_wizards-primary-2016.png",
+          "city": "Washington",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "6cf75b769c834c0c9f0249e637cabcd1",
+          "leagueAbbreviation": "NBA",
+          "name": "MIAMI HEAT",
+          "abbreviation": "MIA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif",
+          "city": "Miami",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-18T20:00-0400",
+        "venue": "Capital One Arena",
+        "city": "Washington",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-18T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 6000
+          }
+        ]
+      },
+      {
+        "id": "64a2173d7b554ee9a5a410a24cb21636",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "80e4a202c74c48108c5b171d0b493290",
+          "leagueAbbreviation": "NBA",
+          "name": "PORTLAND TRAIL BLAZERS",
+          "abbreviation": "POR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/239/full/9725_portland_trail_blazers-primary-2018.png",
+          "city": "Portland",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "7360f710076547329076663b35d2c76c",
+          "leagueAbbreviation": "NBA",
+          "name": "LOS ANGELES LAKERS",
+          "abbreviation": "LAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-18T22:30-0400",
+        "venue": "Moda Center",
+        "city": "Portland",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-18T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "5c2d031d7beb4469923ef961f04df6d9",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "242eff53bf7e4921970e3085de749170",
+          "leagueAbbreviation": "NBA",
+          "name": "ORLANDO MAGIC",
+          "abbreviation": "ORL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/217/full/wd9ic7qafgfb0yxs7tem7n5g4.gif",
+          "city": "Orlando",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "b171a01373fc46bab93d5ce96f8f88c1",
+          "leagueAbbreviation": "NBA",
+          "name": "CHARLOTTE HORNETS",
+          "abbreviation": "CHA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/5120/full/1926_charlotte__hornets_-primary-2015.png",
+          "city": "Charlotte",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T19:00-0400",
+        "venue": "Amway Center",
+        "city": "Orlando",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "a1b8da59d3014a3aa79d4e2b73241245",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "c69562151e7c40f6a22a3a713a19df81",
+          "leagueAbbreviation": "NBA",
+          "name": "BROOKLYN NETS",
+          "abbreviation": "BKN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/3786/full/137_brooklyn-nets-primary-2013.png",
+          "city": "Brooklyn",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "c01ba56aaa4c41378dc709e9904842dd",
+          "leagueAbbreviation": "NBA",
+          "name": "NEW YORK KNICKS",
+          "abbreviation": "NYK",
+          "logoUrl": "http://content.sportslogos.net/logos/6/216/full/2nn48xofg0hms8k326cqdmuis.gif",
+          "city": "New York City",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T19:30-0400",
+        "venue": "Barclays Center",
+        "city": "Brooklyn",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "bcd2a31a81b34eb7ae072acc31b4d713",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "546c3d64fa684c0bb691a9a12401ed1c",
+          "leagueAbbreviation": "NBA",
+          "name": "TORONTO RAPTORS",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/227/full/4578_toronto_raptors-primary-2016.png",
+          "city": "Toronto",
+          "country": "CANADA"
+        },
+        "visitor": {
+          "id": "8b84663127ba422a99bb05f59efdc2ba",
+          "leagueAbbreviation": "NBA",
+          "name": "BOSTON CELTICS",
+          "abbreviation": "BOS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/213/full/slhg02hbef3j1ov4lsnwyol5o.png",
+          "city": "Boston",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T20:00-0400",
+        "venue": "Scotiabank Arena",
+        "city": "Toronto",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "be2e79d0074542d38874c31f9bf62fe7",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "657b4360c7d546dc9fe40588acc1bbb9",
+          "leagueAbbreviation": "NBA",
+          "name": "MEMPHIS GRIZZLIES",
+          "abbreviation": "MEM",
+          "logoUrl": "http://content.sportslogos.net/logos/6/231/full/793.png",
+          "city": "Memphis",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "4116dbbcf32047f39ea539ceea31a242",
+          "leagueAbbreviation": "NBA",
+          "name": "ATLANTA HAWKS",
+          "abbreviation": "ATL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/220/full/9168_atlanta_hawks-primary-2016.png",
+          "city": "Atlanta",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T20:00-0400",
+        "venue": "FedExForum",
+        "city": "Memphis",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "efa6d96e2de34cdea88f511e7a0fcf8b",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "f6228d44cd214e9aaf9c1cffbab434c0",
+          "leagueAbbreviation": "NBA",
+          "name": "MINNESOTA TIMBERWOLVES",
+          "abbreviation": "MIN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/232/full/9669_minnesota_timberwolves-primary-2018.png",
+          "city": "Minneapolis",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "b8a0b50c9caf4ed1a2c75c0b8f296bcd",
+          "leagueAbbreviation": "NBA",
+          "name": "CLEVELAND CAVALIERS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/6/222/full/6921_cleveland_cavaliers-primary-2018.png",
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T20:00-0400",
+        "venue": "Target Center",
+        "city": "Minneapolis",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "27a94ef6e6ee4dd2961e6d2aafaa1b69",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "f1604f20791a49fd989f88b683d08e2c",
+          "leagueAbbreviation": "NBA",
+          "name": "NEW ORLEANS PELICANS",
+          "abbreviation": "NOP",
+          "logoUrl": "http://content.sportslogos.net/logos/6/4962/full/2681_new_orleans_pelicans-primary-2014.png",
+          "city": "New Orleans",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "48463dc9b0924ab490ee198867ed1238",
+          "leagueAbbreviation": "NBA",
+          "name": "SACRAMENTO KINGS",
+          "abbreviation": "SAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png",
+          "city": "Sacramento",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T20:00-0400",
+        "venue": "Smoothie King Center",
+        "city": "New Orleans",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "43aa12788af845af96038805a1a4b54b",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "df8c8cbf88a74a609ab8d91c37f16016",
+          "leagueAbbreviation": "NBA",
+          "name": "MILWAUKEE BUCKS",
+          "abbreviation": "MIL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/225/full/8275_milwaukee_bucks-primary-2016.png",
+          "city": "Milwaukee",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "019a5ca133b243618c3c87573a8c7f46",
+          "leagueAbbreviation": "NBA",
+          "name": "INDIANA PACERS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T20:30-0400",
+        "venue": "Fiserv Forum",
+        "city": "Milwaukee",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 6000
+          }
+        ]
+      },
+      {
+        "id": "cecabb0314e94e119c229a7deb47666d",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "080dd2f05e59403882c4518335a357a7",
+          "leagueAbbreviation": "NBA",
+          "name": "UTAH JAZZ",
+          "abbreviation": "UTA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/234/full/6749_utah_jazz-primary-2017.png",
+          "city": "Salt Lake City",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "4c4b94f2be6044f1a689d25246d90fbd",
+          "leagueAbbreviation": "NBA",
+          "name": "GOLDEN STATE WARRIORS",
+          "abbreviation": "GSW",
+          "logoUrl": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png",
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T22:30-0400",
+        "venue": "Vivint Smart Home Arena",
+        "city": "Salt Lake City",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "c821f659945744cdb76a343bd6076eb8",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "e71bc776f2384363b2806e106d694286",
+          "leagueAbbreviation": "NBA",
+          "name": "LOS ANGELES CLIPPERS",
+          "abbreviation": "LAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/236/full/5462_los_angeles_clippers-primary-2016.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "8aa6b6f45aeb49089a8aec69ab515a8d",
+          "leagueAbbreviation": "NBA",
+          "name": "OKLAHOMA CITY THUNDER",
+          "abbreviation": "OKC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/2687/full/khmovcnezy06c3nm05ccn0oj2.png",
+          "city": "Oklahoma City",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-19T22:30-0400",
+        "venue": "Staples Center",
+        "city": "Los Angeles",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-19T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "eccc1c979be24d8e8c441f582e9e62f0",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "019a5ca133b243618c3c87573a8c7f46",
+          "leagueAbbreviation": "NBA",
+          "name": "INDIANA PACERS",
+          "abbreviation": "IND",
+          "logoUrl": "http://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png",
+          "city": "Indianapolis",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "c69562151e7c40f6a22a3a713a19df81",
+          "leagueAbbreviation": "NBA",
+          "name": "BROOKLYN NETS",
+          "abbreviation": "BKN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/3786/full/137_brooklyn-nets-primary-2013.png",
+          "city": "Brooklyn",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T19:00-0400",
+        "venue": "Bankers Life Fieldhouse",
+        "city": "Indianapolis",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 6000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "0df160933894437b8382c87e04634362",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "78321e2169514591937f681eb8f52aa6",
+          "leagueAbbreviation": "NBA",
+          "name": "WASHINGTON WIZARDS",
+          "abbreviation": "WAS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/219/full/5671_washington_wizards-primary-2016.png",
+          "city": "Washington",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "546c3d64fa684c0bb691a9a12401ed1c",
+          "leagueAbbreviation": "NBA",
+          "name": "TORONTO RAPTORS",
+          "abbreviation": "TOR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/227/full/4578_toronto_raptors-primary-2016.png",
+          "city": "Toronto",
+          "country": "CANADA"
+        },
+        "startDateTime": "2018-10-20T19:00-0400",
+        "venue": "Capital One Arena",
+        "city": "Washington",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "e7b79c692b074f65b0acd60589fb2ea2",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "c01ba56aaa4c41378dc709e9904842dd",
+          "leagueAbbreviation": "NBA",
+          "name": "NEW YORK KNICKS",
+          "abbreviation": "NYK",
+          "logoUrl": "http://content.sportslogos.net/logos/6/216/full/2nn48xofg0hms8k326cqdmuis.gif",
+          "city": "New York City",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "8b84663127ba422a99bb05f59efdc2ba",
+          "leagueAbbreviation": "NBA",
+          "name": "BOSTON CELTICS",
+          "abbreviation": "BOS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/213/full/slhg02hbef3j1ov4lsnwyol5o.png",
+          "city": "Boston",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T19:30-0400",
+        "venue": "Madison Square Garden",
+        "city": "New York City",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "1e7bd27d1f5246a7ae5a420e614a679d",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "7b93b62bad7948d88590789da107aca2",
+          "leagueAbbreviation": "NBA",
+          "name": "PHILADELPHIA 76ERS",
+          "abbreviation": "PHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png",
+          "city": "Philadelphia",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "242eff53bf7e4921970e3085de749170",
+          "leagueAbbreviation": "NBA",
+          "name": "ORLANDO MAGIC",
+          "abbreviation": "ORL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/217/full/wd9ic7qafgfb0yxs7tem7n5g4.gif",
+          "city": "Orlando",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T19:30-0400",
+        "venue": "Wells Fargo Center",
+        "city": "Philadelphia",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T19:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "3310f87acd4a4817b8c29a8e2e5f047e",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "6cf75b769c834c0c9f0249e637cabcd1",
+          "leagueAbbreviation": "NBA",
+          "name": "MIAMI HEAT",
+          "abbreviation": "MIA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif",
+          "city": "Miami",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "b171a01373fc46bab93d5ce96f8f88c1",
+          "leagueAbbreviation": "NBA",
+          "name": "CHARLOTTE HORNETS",
+          "abbreviation": "CHA",
+          "logoUrl": "http://content.sportslogos.net/logos/6/5120/full/1926_charlotte__hornets_-primary-2015.png",
+          "city": "Charlotte",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T20:00-0400",
+        "venue": "AmericanAirlines Arena",
+        "city": "Miami",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "2f1fdbef7fed467eb888b5e4a19a3f74",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "7061a08d76824a2bb2ba7b8e53d56c0a",
+          "leagueAbbreviation": "NBA",
+          "name": "CHICAGO BULLS",
+          "abbreviation": "CHI",
+          "logoUrl": "http://content.sportslogos.net/logos/6/221/full/hj3gmh82w9hffmeh3fjm5h874.png",
+          "city": "Chicago",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "b12ddf75ecf842248e99475cb6c7d8ac",
+          "leagueAbbreviation": "NBA",
+          "name": "DETROIT PISTONS",
+          "abbreviation": "DET",
+          "logoUrl": "http://content.sportslogos.net/logos/6/223/full/2164_detroit_pistons-primary-2018.png",
+          "city": "Detroit",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T20:00-0400",
+        "venue": "United Center",
+        "city": "Chicago",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 2000
+          }
+        ]
+      },
+      {
+        "id": "964465d8400346f6b8177ec0772bde4e",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "ca40f138323e41d2a52df920d9c254fe",
+          "leagueAbbreviation": "NBA",
+          "name": "DALLAS MAVERICKS",
+          "abbreviation": "DAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png",
+          "city": "Dallas",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "f6228d44cd214e9aaf9c1cffbab434c0",
+          "leagueAbbreviation": "NBA",
+          "name": "MINNESOTA TIMBERWOLVES",
+          "abbreviation": "MIN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/232/full/9669_minnesota_timberwolves-primary-2018.png",
+          "city": "Minneapolis",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T20:30-0400",
+        "venue": "American Airlines Center",
+        "city": "Dallas",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T20:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "b66d77205a944fbba74e89f664ce2572",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "baae182d4ed64a16b7a8c51051a72ee9",
+          "leagueAbbreviation": "NBA",
+          "name": "DENVER NUGGETS",
+          "abbreviation": "DEN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png",
+          "city": "Denver",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "427883321ff5482686e0b3529d90797a",
+          "leagueAbbreviation": "NBA",
+          "name": "PHOENIX SUNS",
+          "abbreviation": "PHX",
+          "logoUrl": "http://content.sportslogos.net/logos/6/238/full/4370_phoenix_suns-primary-2014.png",
+          "city": "Phpenix",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T21:00-0400",
+        "venue": "Pepsi Center",
+        "city": "Denver",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T20:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 4000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 3000
+          }
+        ]
+      },
+      {
+        "id": "e5088d77fbf6454bae568371a1d2a0fd",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "80e4a202c74c48108c5b171d0b493290",
+          "leagueAbbreviation": "NBA",
+          "name": "PORTLAND TRAIL BLAZERS",
+          "abbreviation": "POR",
+          "logoUrl": "http://content.sportslogos.net/logos/6/239/full/9725_portland_trail_blazers-primary-2018.png",
+          "city": "Portland",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "6e406ee65d5a4c7da75c19cee47ba7e6",
+          "leagueAbbreviation": "NBA",
+          "name": "SAN ANTONIO SPURS",
+          "abbreviation": "SAS",
+          "logoUrl": "http://content.sportslogos.net/logos/6/233/full/2547_san_antonio_spurs-primary-2018.png",
+          "city": "San Antonio",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T22:00-0400",
+        "venue": "Moda Center",
+        "city": "Portland",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T21:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 2000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "cd2d058fdbdb4d8d883344370ff8bab0",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "7360f710076547329076663b35d2c76c",
+          "leagueAbbreviation": "NBA",
+          "name": "LOS ANGELES LAKERS",
+          "abbreviation": "LAL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "37989ab8520243cfa29c6d6bdd90c648",
+          "leagueAbbreviation": "NBA",
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "city": "Houston",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-20T22:30-0400",
+        "venue": "Staples Center",
+        "city": "Los Angeles",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-20T22:00-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 4000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 6000
+          }
+        ]
+      },
+      {
+        "id": "7fdf516408e14a65b5a86a4fa445ceea",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "b8a0b50c9caf4ed1a2c75c0b8f296bcd",
+          "leagueAbbreviation": "NBA",
+          "name": "CLEVELAND CAVALIERS",
+          "abbreviation": "CLE",
+          "logoUrl": "http://content.sportslogos.net/logos/6/222/full/6921_cleveland_cavaliers-primary-2018.png",
+          "city": "Cleveland",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "4116dbbcf32047f39ea539ceea31a242",
+          "leagueAbbreviation": "NBA",
+          "name": "ATLANTA HAWKS",
+          "abbreviation": "ATL",
+          "logoUrl": "http://content.sportslogos.net/logos/6/220/full/9168_atlanta_hawks-primary-2016.png",
+          "city": "Atlanta",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-21T18:00-0400",
+        "venue": "Quicken Loans Arena",
+        "city": "Cleveland",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-21T17:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      },
+      {
+        "id": "25c495d0cd65429a83185295aac7c0cf",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "8aa6b6f45aeb49089a8aec69ab515a8d",
+          "leagueAbbreviation": "NBA",
+          "name": "OKLAHOMA CITY THUNDER",
+          "abbreviation": "OKC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/2687/full/khmovcnezy06c3nm05ccn0oj2.png",
+          "city": "Oklahoma City",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "48463dc9b0924ab490ee198867ed1238",
+          "leagueAbbreviation": "NBA",
+          "name": "SACRAMENTO KINGS",
+          "abbreviation": "SAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png",
+          "city": "Sacramento",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-21T19:00-0400",
+        "venue": "Chesapeake Energy Arena",
+        "city": "Oklahoma City",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-21T18:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 5000
+          },
+          {
+            "code": "Draw",
+            "odds": 5000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 4000
+          }
+        ]
+      },
+      {
+        "id": "63633daa38cf4611a5aa75f756e92362",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "baae182d4ed64a16b7a8c51051a72ee9",
+          "leagueAbbreviation": "NBA",
+          "name": "DENVER NUGGETS",
+          "abbreviation": "DEN",
+          "logoUrl": "http://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png",
+          "city": "Denver",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "4c4b94f2be6044f1a689d25246d90fbd",
+          "leagueAbbreviation": "NBA",
+          "name": "GOLDEN STATE WARRIORS",
+          "abbreviation": "GSW",
+          "logoUrl": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png",
+          "city": "Oakland",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-21T20:00-0400",
+        "venue": "Pepsi Center",
+        "city": "Denver",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-21T19:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 3000
+          },
+          {
+            "code": "Draw",
+            "odds": 2000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 1000
+          }
+        ]
+      },
+      {
+        "id": "d53fcde1195843a595b688f5d1e681d3",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "e71bc776f2384363b2806e106d694286",
+          "leagueAbbreviation": "NBA",
+          "name": "LOS ANGELES CLIPPERS",
+          "abbreviation": "LAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/236/full/5462_los_angeles_clippers-primary-2016.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "37989ab8520243cfa29c6d6bdd90c648",
+          "leagueAbbreviation": "NBA",
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "city": "Houston",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-21T21:00-0400",
+        "venue": "Staples Center",
+        "city": "Los Angeles",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-21T20:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 7000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 8000
+          }
+        ]
+      },
+      {
+        "id": "fbe2bbeb436747219a432125b345d340",
+        "leagueAbbreviation": "NBA",
+        "season": "2018-2019",
+        "home": {
+          "id": "e71bc776f2384363b2806e106d694286",
+          "leagueAbbreviation": "NBA",
+          "name": "LOS ANGELES CLIPPERS",
+          "abbreviation": "LAC",
+          "logoUrl": "http://content.sportslogos.net/logos/6/236/full/5462_los_angeles_clippers-primary-2016.png",
+          "city": "Los Angeles",
+          "country": "USA"
+        },
+        "visitor": {
+          "id": "37989ab8520243cfa29c6d6bdd90c648",
+          "leagueAbbreviation": "NBA",
+          "name": "HOUSTON ROCKETS",
+          "abbreviation": "HOU",
+          "logoUrl": "http://content.sportslogos.net/logos/6/230/full/8xe4813lzybfhfl14axgzzqeq.gif",
+          "city": "Houston",
+          "country": "USA"
+        },
+        "startDateTime": "2018-10-21T21:00-0400",
+        "venue": "Staples Center",
+        "city": "Los Angeles",
+        "finalResult": "0-0",
+        "playedStatus": "scheduled",
+        "betStartTime": "2018-08-17T00:00-0400",
+        "betEndTime": "2018-10-21T20:30-0400",
+        "odds": [
+          {
+            "code": "HomeWin",
+            "odds": 6000
+          },
+          {
+            "code": "Draw",
+            "odds": 3000
+          },
+          {
+            "code": "VisitorWin",
+            "odds": 5000
+          }
+        ]
+      }
+    ]
+  }
+]
